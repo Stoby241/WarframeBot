@@ -4,6 +4,7 @@ from dataclasses import dataclass
 
 import requests
 
+import utility
 import warframeMarket
 
 root = "https://api.warframe.market/v1"
@@ -17,6 +18,7 @@ class Item:
     id: str
     drop: []
 
+apiPingSpeed = 0.5
 
 response = requests.get(root + "/items")
 if response.status_code != 200:
@@ -36,30 +38,42 @@ for itemJson in itemListJson:
     )
     items.append(item)
 
+itemsLength = len(items)
 i = 0
 for item in items:
     response = requests.get(warframeMarket.root + "/items/" + item.url)
-    print("Item " + str(i) + " of " + str(len(items)) + " Status Code: " + str(response.status_code))
+
+    timeLeft = utility.computeSecondsToHigherUnits((itemsLength - i) * apiPingSpeed, "year")
+    print("\rItem " + str(i) + " of " + str(itemsLength) +
+          " || Status Code: " + str(response.status_code) +
+          " || Time left: " + str(timeLeft), end="")
 
     itemJson = response.json()["payload"]["item"]
     #print(json.dumps(itemJson, indent=4, sort_keys=True))
 
     item.id = itemJson["id"]
     item.tags = itemJson["items_in_set"][0]["tags"]
-    item.drop = itemJson["items_in_set"][0]["en"]["drop"]
+
+    item.drop = []
+    drops = itemJson["items_in_set"][0]["en"]["drop"]
+    for drop in drops:
+        item.drop.append(drop["name"])
+
 
     i += 1
-    time.sleep(0.5)
+    time.sleep(apiPingSpeed)
 
 items.append(Item(
     name="Forma Blueprint",
     url="",
     id="",
     tags=[],
-    drop=[]
+    drop=["Lith","Meso","Neo","Axi"]
 ))
 
-f = open("item.txt", "w")
-jsonString = json.dumps([ob.__dict__ for ob in items])
+jsonString = json.dumps([ob.__dict__ for ob in items], indent=2)
+
+f = open("item.json", "w")
+f.truncate(0)
 f.write(jsonString)
 f.close()

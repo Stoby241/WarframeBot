@@ -1,3 +1,4 @@
+import json
 from dataclasses import dataclass
 import pytesseract
 import cv2
@@ -5,7 +6,7 @@ import cv2
 import warframeMarket
 import utility
 
-player = 4
+player = 3
 boxesX = [
     730, 960,
     630, 840, 1080,
@@ -15,14 +16,33 @@ boxesY = 410
 boxesW = 240
 boxesH = 45
 
-items, itemUrls = warframeMarket.getItemList()
-items.append("Forma Blueprint")
-itemUrls.append("not to sell")
+
+@dataclass
+class Item:
+    name: str
+    url: str
+
+
+f = open("item.json", "r")
+jsonItemList = json.loads(f.read())
+f.close()
+
+items = []
+for jsonItem in jsonItemList:
+    item = Item(
+        name=jsonItem["name"],
+        url=jsonItem["url"]
+    )
+    if ("Chassis" in item.name) | ("Neuroptics" in item.name) | ("Systems" in item.name):
+        item.name += " Blueprint"
+    items.append(item)
 
 pytesseract.pytesseract.tesseract_cmd = "H:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe"
 
-img = utility.loadImage("image3.png")
+img = utility.loadImage("screenshot\\image4.png")
 #img = utility.doScreenShot()
+
+
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 datas = []
@@ -40,28 +60,30 @@ for i in range(player):
 foundItems = []
 for data in datas:
     bestItem = ""
-    bestItemUrl = ""
     bestAccuracy = 0
+    sure = False
 
-    for i in range(len(items)):
-        item = items[i]
-        itemUrl = itemUrls[i]
-
-        itemNameParts = item.split(" ")
+    for item in items:
+        itemNameParts = item.name.split(" ")
 
         accuracy = 0
         for itemNamePart in itemNameParts:
             if itemNamePart in data:
                 accuracy += 1
 
-        accuracy /= len(itemNameParts)
-
         if accuracy > bestAccuracy:
+            sure = accuracy >= len(itemNameParts)
             bestItem = item
-            bestItemUrl = itemUrl
             bestAccuracy = accuracy
 
-    foundItems.append(bestItem + " " + str(warframeMarket.getItemPrice(bestItemUrl)) +"p")
+    if bestItem != "":
+        foundItems.append([bestItem, sure])
 
-for item in foundItems:
-    print(item)
+if len(foundItems) == player:
+    for item in foundItems:
+        text = item[0].name + " " + str(warframeMarket.getItemPrice(item[0].url)) + "p"
+        if not item[1]:
+            text += " (probably wrong!)"
+        print(text)
+else:
+    print("Wrong Player Count")

@@ -5,7 +5,7 @@ import requests
 root = "https://api.warframe.market/v1"
 
 def getItemPrice(itemUrl):
-    if (itemUrl == "not to sell") | (itemUrl == ""):
+    if itemUrl == "":
         return 0.0
 
     response = requests.get(root + "/items/" + itemUrl + "/orders")
