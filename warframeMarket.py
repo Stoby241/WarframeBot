@@ -4,6 +4,7 @@ import requests
 
 root = "https://api.warframe.market/v1"
 
+
 def getItemPrice(itemUrl):
     if itemUrl == "":
         return 0.0
@@ -26,5 +27,3 @@ def getItemPrice(itemUrl):
         price = 0
 
     return price
-
-
