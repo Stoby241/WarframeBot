@@ -2,20 +2,22 @@ import json
 from dataclasses import dataclass
 import pytesseract
 import cv2
-import matplotlib.pyplot as plt
-
+import numpy as np
 import warframeMarket
 import utility
 
-player = 4
-boxesX = [
-    730, 960,
-    630, 840, 1080,
-    500, 730, 960, 1190,
-]
-boxesY = 410
-boxesW = 240
-boxesH = 45
+
+def printItem(item):
+    text = item[0].name + " " + str(warframeMarket.getItemPrice(item[0].url)) + "p"
+    if not item[1]:
+        text += " (probably wrong!)"
+    print(text)
+
+
+showImg = False
+showParsedText = False
+loadImg = False
+imgName = "image9"
 
 
 @dataclass
@@ -23,6 +25,16 @@ class Item:
     name: str
     url: str
 
+
+lower = [79, 121, 135]
+upper = [102, 169, 190]
+boxesX = [
+    630, 840, 1080,
+    500, 730, 960, 1190,
+]
+boxY = 400
+boxW = 240
+boxH = 75
 
 f = open("item.json", "r")
 jsonItemList = json.loads(f.read())
@@ -40,29 +52,29 @@ for jsonItem in jsonItemList:
 
 pytesseract.pytesseract.tesseract_cmd = "H:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe"
 
-#img = utility.loadImage("screenshot\\image9.png")
-img = utility.doScreenShot()
-
+if loadImg:
+    img = utility.loadImage("screenshot\\" + imgName + ".png")
+else:
+    img = utility.doScreenShot()
 
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
+lower = np.array(lower, dtype="uint8")
+upper = np.array(upper, dtype="uint8")
+mask = cv2.inRange(img, lower, upper)
+
 datas = []
 
-offset = 0
-if player == 3:
-    offset += 2
-elif player == 4:
-    offset += 5
-
-for i in range(player):
-    cimg = img[boxesY:boxesY + boxesH, boxesX[i + offset]:boxesX[i + offset] + boxesW]
+for boxX in boxesX:
+    cimg = mask[boxY:boxY + boxH, boxX:boxX + boxW]
     datas.append(pytesseract.image_to_string(cimg))
 
-    plt.imshow(cimg)
-    plt.show()
+    if showImg:
+        cv2.imshow('image', cimg)
+        cv2.waitKey(0)
 
-
-print(datas)
+if showParsedText:
+    print(datas)
 
 foundItems = []
 for data in datas:
@@ -86,11 +98,18 @@ for data in datas:
     if bestItem != "":
         foundItems.append([bestItem, sure])
 
-if len(foundItems) == player:
-    for item in foundItems:
-        text = item[0].name + " " + str(warframeMarket.getItemPrice(item[0].url)) + "p"
-        if not item[1]:
-            text += " (probably wrong!)"
-        print(text)
+
+if len(foundItems) == 0:
+    print("Nothing Found!")
 else:
-    print("Wrong Player Count")
+    print("\n--- 4 Player: ---")
+    for item in foundItems[3:]:
+        printItem(item)
+
+    print("\n--- 3 Player: ---")
+    for item in foundItems[:3]:
+        printItem(item)
+
+    print("\n--- 2 Player: ---")
+    printItem(foundItems[4])
+    printItem(foundItems[5])
