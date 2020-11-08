@@ -2,11 +2,12 @@ import json
 from dataclasses import dataclass
 import pytesseract
 import cv2
+import matplotlib.pyplot as plt
 
 import warframeMarket
 import utility
 
-player = 3
+player = 4
 boxesX = [
     730, 960,
     630, 840, 1080,
@@ -39,8 +40,8 @@ for jsonItem in jsonItemList:
 
 pytesseract.pytesseract.tesseract_cmd = "H:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe"
 
-img = utility.loadImage("screenshot\\image4.png")
-#img = utility.doScreenShot()
+#img = utility.loadImage("screenshot\\image9.png")
+img = utility.doScreenShot()
 
 
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -56,6 +57,12 @@ elif player == 4:
 for i in range(player):
     cimg = img[boxesY:boxesY + boxesH, boxesX[i + offset]:boxesX[i + offset] + boxesW]
     datas.append(pytesseract.image_to_string(cimg))
+
+    plt.imshow(cimg)
+    plt.show()
+
+
+print(datas)
 
 foundItems = []
 for data in datas:

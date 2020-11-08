@@ -1,0 +1,135 @@
+Cyngas Set || Set price: 100.0 || Parts sum: 39.0 || Profit: 61.0
+Braton Vandal Set || Set price: 300.0 || Parts sum: 239.0 || Profit: 61.0
+Amesha Set || Set price: 60.0 || Parts sum: 0 || Profit: 60.0
+Damaged Necramech Weapon Set || Set price: 240.0 || Parts sum: 188.0 || Profit: 52.0
+Vectis Prime Set || Set price: 140.0 || Parts sum: 100.0 || Profit: 40.0
+Broken War Set || Set price: 80.0 || Parts sum: 40.0 || Profit: 40.0
+Kronen Prime Set || Set price: 198.0 || Parts sum: 159.0 || Profit: 39.0
+Centaur Set || Set price: 64.0 || Parts sum: 30.0 || Profit: 34.0
+Nami Skyla Prime Set || Set price: 140.0 || Parts sum: 106.0 || Profit: 34.0
+Kogake Prime Set || Set price: 65.0 || Parts sum: 33.0 || Profit: 32.0
+Lato Vandal Set || Set price: 155.0 || Parts sum: 123.0 || Profit: 32.0
+Phaedra Set || Set price: 64.0 || Parts sum: 35.0 || Profit: 29.0
+Mag Prime Set || Set price: 150.0 || Parts sum: 122.0 || Profit: 28.0
+Karak Wraith Set || Set price: 100.0 || Parts sum: 72.0 || Profit: 28.0
+Agkuza Set || Set price: 64.0 || Parts sum: 36.0 || Profit: 28.0
+Guandao Prime Set || Set price: 94.0 || Parts sum: 66.0 || Profit: 28.0
+Rhino Prime Set || Set price: 195.0 || Parts sum: 168.0 || Profit: 27.0
+Aksomati Prime Set || Set price: 54.0 || Parts sum: 27.0 || Profit: 27.0
+Nekros Prime Set || Set price: 140.0 || Parts sum: 114.0 || Profit: 26.0
+Hikou Prime Set || Set price: 60.0 || Parts sum: 35.0 || Profit: 25.0
+Ash Prime Set || Set price: 150.0 || Parts sum: 125.0 || Profit: 25.0
+Akbolto Prime Set || Set price: 60.0 || Parts sum: 35.0 || Profit: 25.0
+Volt Prime Set || Set price: 179.0 || Parts sum: 155.0 || Profit: 24.0
+Velocitus Set || Set price: 50.0 || Parts sum: 27.0 || Profit: 23.0
+Nezha Prime Set || Set price: 100.0 || Parts sum: 77.0 || Profit: 23.0
+Panthera Prime Set || Set price: 50.0 || Parts sum: 29.0 || Profit: 21.0
+Saryn Prime Set || Set price: 170.0 || Parts sum: 150.0 || Profit: 20.0
+Fluctus Set || Set price: 50.0 || Parts sum: 30.0 || Profit: 20.0
+Dual Decurion Set || Set price: 40.0 || Parts sum: 20.0 || Profit: 20.0
+Spira Prime Set || Set price: 149.0 || Parts sum: 129.0 || Profit: 20.0
+Tekko Prime Set || Set price: 35.0 || Parts sum: 15.0 || Profit: 20.0
+Carrier Prime Set || Set price: 80.0 || Parts sum: 61.0 || Profit: 19.0
+Vauban Prime Set || Set price: 175.0 || Parts sum: 156.0 || Profit: 19.0
+Pathocyst Set || Set price: 45.0 || Parts sum: 26.0 || Profit: 19.0
+Trinity Prime Set || Set price: 45.0 || Parts sum: 27.0 || Profit: 18.0
+Dual Kamas Prime Set || Set price: 90.0 || Parts sum: 73.0 || Profit: 17.0
+Scindo Prime Set || Set price: 60.0 || Parts sum: 43.0 || Profit: 17.0
+Akjagara Prime Set || Set price: 35.0 || Parts sum: 18.0 || Profit: 17.0
+Ember Prime Set || Set price: 55.0 || Parts sum: 39.0 || Profit: 16.0
+Rathbone Set || Set price: 42.0 || Parts sum: 26.0 || Profit: 16.0
+Nova Prime Set || Set price: 70.0 || Parts sum: 54.0 || Profit: 16.0
+Oberon Prime Set || Set price: 68.0 || Parts sum: 53.0 || Profit: 15.0
+Zephyr Prime Set || Set price: 66.0 || Parts sum: 51.0 || Profit: 15.0
+Loki Prime Set || Set price: 450.0 || Parts sum: 435.0 || Profit: 15.0
+Stropha Set || Set price: 40.0 || Parts sum: 25.0 || Profit: 15.0
+Glaive Prime Set || Set price: 35.0 || Parts sum: 21.0 || Profit: 14.0
+Ballistica Prime Set || Set price: 40.0 || Parts sum: 27.0 || Profit: 13.0
+Sheev Set || Set price: 65.0 || Parts sum: 52.0 || Profit: 13.0
+Zakti Prime Set || Set price: 90.0 || Parts sum: 77.0 || Profit: 13.0
+Nikana Prime Set || Set price: 100.0 || Parts sum: 88.0 || Profit: 12.0
+Cernos Prime Set || Set price: 67.0 || Parts sum: 55.0 || Profit: 12.0
+Inaros Prime Set || Set price: 50.0 || Parts sum: 38.0 || Profit: 12.0
+Karyst Prime Set || Set price: 30.0 || Parts sum: 18.0 || Profit: 12.0
+Scimitar Set || Set price: 55.0 || Parts sum: 44.0 || Profit: 11.0
+Hydroid Prime Set || Set price: 90 || Parts sum: 80.0 || Profit: 10.0
+Tigris Prime Set || Set price: 45.0 || Parts sum: 35.0 || Profit: 10.0
+Onorix Set || Set price: 35.0 || Parts sum: 25.0 || Profit: 10.0
+Shedu Set || Set price: 75.0 || Parts sum: 65.0 || Profit: 10.0
+Aklex Prime Set || Set price: 47.0 || Parts sum: 38.0 || Profit: 9.0
+Corvas Set || Set price: 39.0 || Parts sum: 30.0 || Profit: 9.0
+Limbo Prime Set || Set price: 95.0 || Parts sum: 86.0 || Profit: 9.0
+Ivara Prime Set || Set price: 30.0 || Parts sum: 21.0 || Profit: 9.0
+Stahlta Set || Set price: 20.0 || Parts sum: 11.0 || Profit: 9.0
+Frost Prime Set || Set price: 57.0 || Parts sum: 49.0 || Profit: 8.0
+Odonata Prime Set || Set price: 59.0 || Parts sum: 51.0 || Profit: 8.0
+Boltor Prime Set || Set price: 69.0 || Parts sum: 61.0 || Profit: 8.0
+Wukong Prime Set || Set price: 30.0 || Parts sum: 23.0 || Profit: 7.0
+Reaper Prime Set || Set price: 25.0 || Parts sum: 18.0 || Profit: 7.0
+Titania Prime Set || Set price: 30.0 || Parts sum: 23.0 || Profit: 7.0
+Helios Prime Set || Set price: 85.0 || Parts sum: 79.0 || Profit: 6.0
+Sicarus Prime Set || Set price: 24.0 || Parts sum: 18.0 || Profit: 6.0
+Kaszas Set || Set price: 25.0 || Parts sum: 19.0 || Profit: 6.0
+Soma Prime Set || Set price: 40.0 || Parts sum: 34.0 || Profit: 6.0
+Rubico Prime Set || Set price: 60.0 || Parts sum: 54.0 || Profit: 6.0
+Equinox Prime Set || Set price: 30.0 || Parts sum: 24.0 || Profit: 6.0
+Ninkondi Prime Set || Set price: 20.0 || Parts sum: 15.0 || Profit: 5.0
+Akbronco Prime Set || Set price: 10.0 || Parts sum: 5.0 || Profit: 5.0
+Galatine Prime Set || Set price: 40.0 || Parts sum: 35.0 || Profit: 5.0
+Corinth Prime Set || Set price: 35.0 || Parts sum: 30.0 || Profit: 5.0
+Mantis Set || Set price: 28.0 || Parts sum: 24.0 || Profit: 4.0
+Dakra Prime Set || Set price: 45.0 || Parts sum: 41.0 || Profit: 4.0
+Fang Prime Set || Set price: 9.0 || Parts sum: 5.0 || Profit: 4.0
+Bronco Prime Set || Set price: 15.0 || Parts sum: 11.0 || Profit: 4.0
+Chroma Prime Set || Set price: 62.0 || Parts sum: 58.0 || Profit: 4.0
+Destreza Prime Set || Set price: 40.0 || Parts sum: 37.0 || Profit: 3.0
+Venka Prime Set || Set price: 175.0 || Parts sum: 172.0 || Profit: 3.0
+Boar Prime Set || Set price: 90.0 || Parts sum: 87.0 || Profit: 3.0
+Fragor Prime Set || Set price: 35.0 || Parts sum: 32.0 || Profit: 3.0
+Mesa Prime Set || Set price: 40.0 || Parts sum: 37.0 || Profit: 3.0
+Tipedo Prime Set || Set price: 30.0 || Parts sum: 27.0 || Profit: 3.0
+Vasto Prime Set || Set price: 19.0 || Parts sum: 17.0 || Profit: 2.0
+Gram Prime Set || Set price: 25.0 || Parts sum: 23.0 || Profit: 2.0
+Latron Prime Set || Set price: 25.0 || Parts sum: 24.0 || Profit: 1.0
+Twin Vipers Wraith Set || Set price: 40.0 || Parts sum: 39.0 || Profit: 1.0
+Mirage Prime Set || Set price: 95.0 || Parts sum: 94.0 || Profit: 1.0
+Redeemer Prime Set || Set price: 25.0 || Parts sum: 24.0 || Profit: 1.0
+Velox Set || Set price: 9.0 || Parts sum: 8.0 || Profit: 1.0
+Silva & Aegis Prime Set || Set price: 40.0 || Parts sum: 40.0 || Profit: 0.0
+Orthos Prime Set || Set price: 9.0 || Parts sum: 9.0 || Profit: 0.0
+Dethcube Prime Set || Set price: 20.0 || Parts sum: 20.0 || Profit: 0.0
+Pangolin Prime Set || Set price: 17.0 || Parts sum: 17.0 || Profit: 0.0
+Lex Prime Set || Set price: 8.0 || Parts sum: 9.0 || Profit: -1.0
+Tiberon Prime Set || Set price: 40.0 || Parts sum: 41.0 || Profit: -1.0
+Stradavar Prime Set || Set price: 15.0 || Parts sum: 16.0 || Profit: -1.0
+Akvasto Prime Set || Set price: 120.0 || Parts sum: 122.0 || Profit: -2.0
+Atlas Prime Set || Set price: 29.0 || Parts sum: 31.0 || Profit: -2.0
+Dera Vandal Set || Set price: 35.0 || Parts sum: 38.0 || Profit: -3.0
+Wyrm Prime Set || Set price: 120.0 || Parts sum: 123.0 || Profit: -3.0
+Akstiletto Prime Set || Set price: 100.0 || Parts sum: 103.0 || Profit: -3.0
+Burston Prime Set || Set price: 5.0 || Parts sum: 8.0 || Profit: -3.0
+Nyx Prime Set || Set price: 120.0 || Parts sum: 123.0 || Profit: -3.0
+Kavasa Prime Kubrow Collar Set || Set price: 15.0 || Parts sum: 19.0 || Profit: -4.0
+Zhuge Prime Set || Set price: 24.0 || Parts sum: 28.0 || Profit: -4.0
+Paris Prime Set || Set price: 9.0 || Parts sum: 13.0 || Profit: -4.0
+Pyrana Prime Set || Set price: 35.0 || Parts sum: 39.0 || Profit: -4.0
+Ankyros Prime Set || Set price: 100.0 || Parts sum: 105.0 || Profit: -5.0
+Gorgon Wraith Set || Set price: 6.0 || Parts sum: 11.0 || Profit: -5.0
+Braton Prime Set || Set price: 5.0 || Parts sum: 10.0 || Profit: -5.0
+Furax Wraith Set || Set price: 15.0 || Parts sum: 21.0 || Profit: -6.0
+Euphona Prime Set || Set price: 80.0 || Parts sum: 86.0 || Profit: -6.0
+Banshee Prime Set || Set price: 90.0 || Parts sum: 96.0 || Profit: -6.0
+Valkyr Prime Set || Set price: 95.0 || Parts sum: 101.0 || Profit: -6.0
+Baza Prime Set || Set price: 35.0 || Parts sum: 41.0 || Profit: -6.0
+Damaged Necramech Set || Set price: 10.0 || Parts sum: 16.0 || Profit: -6.0
+Sybaris Prime Set || Set price: 25.0 || Parts sum: 32.0 || Profit: -7.0
+Spectra Vandal Set || Set price: 130.0 || Parts sum: 139.0 || Profit: -9.0
+Imperator Vandal Set || Set price: 45.0 || Parts sum: 55.0 || Profit: -10.0
+Snipetron Vandal Set || Set price: 37.0 || Parts sum: 49.0 || Profit: -12.0
+Latron Wraith Set || Set price: 35.0 || Parts sum: 48.0 || Profit: -13.0
+Elytron Set || Set price: 70.0 || Parts sum: 90.0 || Profit: -20.0
+Wolf Sledge Set || Set price: 170.0 || Parts sum: 194.0 || Profit: -24.0
+Bo Prime Set || Set price: 185.0 || Parts sum: 214.0 || Profit: -29.0
+Strun Wraith Set || Set price: 50.0 || Parts sum: 85.0 || Profit: -35.0
+Xiphos Set || Set price: 0 || Parts sum: 75.0 || Profit: -75.0
+Itzal Set || Set price: 0 || Parts sum: 120.0 || Profit: -120.0

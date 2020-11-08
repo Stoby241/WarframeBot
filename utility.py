@@ -7,7 +7,7 @@ def doScreenShot():
     img = pyautogui.screenshot()
     img = cv2.cvtColor(numpy.array(img),
                        cv2.COLOR_RGB2BGR)
-    cv2.imwrite("screenshot\\image9.png", img)
+    cv2.imwrite("screenshot\\mod9.png", img)
     return img
 
 

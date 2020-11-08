@@ -73,7 +73,7 @@ items.append(Item(
 
 jsonString = json.dumps([ob.__dict__ for ob in items], indent=2)
 
-f = open("item.json", "w")
+f = open("profit.txt", "w")
 f.truncate(0)
 f.write(jsonString)
 f.close()

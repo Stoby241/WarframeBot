@@ -23,63 +23,51 @@ class Set:
 
 apiPingSpeed = 0.4
 
-f = open("item.json", "r")
+f = open("setList.json", "r")
 jsonItemList = json.loads(f.read())
 f.close()
 
-items = []
 sets = []
-for jsonItem in jsonItemList:
-    name = jsonItem["name"]
-    parts = name.split(" ")
-    if "Set" == parts[len(parts) -1]:
-        set = Set(
-            name=name,
-            url=jsonItem["url"],
-            items=[],
-            priceSet=0,
-            priceSum=0,
-            profit=0
-        )
-        sets.append(set)
-    else:
+for jsonSet in jsonItemList:
+    set = Set(
+        name=jsonSet["name"],
+        url=jsonSet["url"],
+        items=[],
+        priceSet=0,
+        priceSum=0,
+        profit=0
+    )
+    for i in range(len(jsonSet["itemNames"])):
         item = Item(
-            name=name,
-            url=jsonItem["url"],
+            name=jsonSet["itemNames"][i],
+            url=jsonSet["itemUrls"][i],
             price=0
         )
-        items.append(item)
+        set.items.append(item)
+    sets.append(set)
 
-i = 0
 for set in sets:
     set.priceSet = warframeMarket.getItemPrice(set.url)
     time.sleep(apiPingSpeed)
 
-    parts = set.name.split(" ")
-    set.priceSum = 0
-    for item in items:
-        parts1 = item.name.split(" ")
+    for item in set.items:
+        item.price = warframeMarket.getItemPrice(item.url)
+        time.sleep(apiPingSpeed)
 
-        if parts[0] == parts1[0]:
-            set.items.append(item)
+        set.priceSum += item.price
 
-            if item.price == 0:
-                item.price = warframeMarket.getItemPrice(item.url)
-                time.sleep(apiPingSpeed)
-
-            set.priceSum += item.price
-            set.profit = set.priceSet - set.priceSum
+    set.profit = set.priceSet - set.priceSum
 
     print(set.name +
           " || Set price: "+ str(set.priceSet) +
           " || Parts sum: "+ str(set.priceSum) +
           " || Profit: "+ str(set.profit))
-    i += 1
+
 
 sets.sort(key=lambda x: x.profit, reverse=True)
 
 print("------------- Sorted List -------------")
-f = open("item.json", "w")
+f = open("profit.txt", "w")
 f.truncate(0)
 
 
