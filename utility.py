@@ -2,10 +2,10 @@ import cv2
 import numpy
 import pyautogui
 
+
 def doScreenShot():
     img = pyautogui.screenshot()
-    img = cv2.cvtColor(numpy.array(img),
-                       cv2.COLOR_RGB2BGR)
+    img = cv2.cvtColor(numpy.array(img), cv2.COLOR_RGB2BGR)
     cv2.imwrite("screenshot\\screenshot1.png", img)
     return img
 
