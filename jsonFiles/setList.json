@@ -1,0 +1,2068 @@
+[
+  {
+    "name": "Aklex Prime Set",
+    "url": "aklex_prime_set",
+    "itemNames": [
+      "Aklex Prime Blueprint",
+      "Aklex Prime Link"
+    ],
+    "itemUrls": [
+      "aklex_prime_blueprint",
+      "aklex_prime_link"
+    ]
+  },
+  {
+    "name": "Silva & Aegis Prime Set",
+    "url": "silva_and_aegis_prime_set",
+    "itemNames": [
+      "Silva & Aegis Prime Guard",
+      "Silva & Aegis Prime Blade",
+      "Silva & Aegis Prime Hilt",
+      "Silva & Aegis Prime Blueprint"
+    ],
+    "itemUrls": [
+      "silva_and_aegis_prime_guard",
+      "silva_and_aegis_prime_blade",
+      "silva_and_aegis_prime_hilt",
+      "silva_and_aegis_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Frost Prime Set",
+    "url": "frost_prime_set",
+    "itemNames": [
+      "Frost Prime Chassis",
+      "Frost Prime Neuroptics",
+      "Frost Prime Systems",
+      "Frost Prime Blueprint"
+    ],
+    "itemUrls": [
+      "frost_prime_chassis",
+      "frost_prime_neuroptics",
+      "frost_prime_systems",
+      "frost_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Kavasa Prime Kubrow Collar Set",
+    "url": "kavasa_prime_kubrow_collar_set",
+    "itemNames": [
+      "Kavasa Prime Kubrow Collar Blueprint",
+      "Kavasa Prime Buckle",
+      "Kavasa Prime Band"
+    ],
+    "itemUrls": [
+      "kavasa_prime_kubrow_collar_blueprint",
+      "kavasa_prime_buckle",
+      "kavasa_prime_band"
+    ]
+  },
+  {
+    "name": "Latron Prime Set",
+    "url": "latron_prime_set",
+    "itemNames": [
+      "Latron Prime Barrel",
+      "Latron Prime Blueprint",
+      "Latron Prime Receiver",
+      "Latron Prime Stock"
+    ],
+    "itemUrls": [
+      "latron_prime_barrel",
+      "latron_prime_blueprint",
+      "latron_prime_receiver",
+      "latron_prime_stock"
+    ]
+  },
+  {
+    "name": "Lex Prime Set",
+    "url": "lex_prime_set",
+    "itemNames": [
+      "Lex Prime Blueprint",
+      "Lex Prime Barrel",
+      "Lex Prime Receiver"
+    ],
+    "itemUrls": [
+      "lex_prime_blueprint",
+      "lex_prime_barrel",
+      "lex_prime_receiver"
+    ]
+  },
+  {
+    "name": "Odonata Prime Set",
+    "url": "odonata_prime_set",
+    "itemNames": [
+      "Odonata Prime Harness",
+      "Odonata Prime Systems",
+      "Odonata Prime Blueprint",
+      "Odonata Prime Wings"
+    ],
+    "itemUrls": [
+      "odonata_prime_harness",
+      "odonata_prime_systems",
+      "odonata_prime_blueprint",
+      "odonata_prime_wings"
+    ]
+  },
+  {
+    "name": "Mantis Set",
+    "url": "mantis_set",
+    "itemNames": [
+      "Mantis Fuselage",
+      "Mantis Avionics",
+      "Mantis Engines"
+    ],
+    "itemUrls": [
+      "mantis_fuselage",
+      "mantis_avionics",
+      "mantis_engines"
+    ]
+  },
+  {
+    "name": "Hydroid Prime Set",
+    "url": "hydroid_prime_set",
+    "itemNames": [
+      "Hydroid Prime Neuroptics",
+      "Hydroid Prime Systems",
+      "Hydroid Prime Chassis",
+      "Hydroid Prime Blueprint"
+    ],
+    "itemUrls": [
+      "hydroid_prime_neuroptics",
+      "hydroid_prime_systems",
+      "hydroid_prime_chassis",
+      "hydroid_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Destreza Prime Set",
+    "url": "destreza_prime_set",
+    "itemNames": [
+      "Destreza Prime Handle",
+      "Destreza Prime Blueprint",
+      "Destreza Prime Blade"
+    ],
+    "itemUrls": [
+      "destreza_prime_handle",
+      "destreza_prime_blueprint",
+      "destreza_prime_blade"
+    ]
+  },
+  {
+    "name": "Wolf Sledge Set",
+    "url": "wolf_sledge_set",
+    "itemNames": [
+      "Wolf Sledge Head",
+      "Wolf Sledge Blueprint",
+      "Wolf Sledge Motor",
+      "Wolf Sledge Handle"
+    ],
+    "itemUrls": [
+      "wolf_sledge_head",
+      "wolf_sledge_blueprint",
+      "wolf_sledge_motor",
+      "wolf_sledge_handle"
+    ]
+  },
+  {
+    "name": "Ninkondi Prime Set",
+    "url": "ninkondi_prime_set",
+    "itemNames": [
+      "Ninkondi Prime Blueprint",
+      "Ninkondi Prime Handle",
+      "Ninkondi Prime Chain"
+    ],
+    "itemUrls": [
+      "ninkondi_prime_blueprint",
+      "ninkondi_prime_handle",
+      "ninkondi_prime_chain"
+    ]
+  },
+  {
+    "name": "Wukong Prime Set",
+    "url": "wukong_prime_set",
+    "itemNames": [
+      "Wukong Prime Chassis",
+      "Wukong Prime Blueprint",
+      "Wukong Prime Systems",
+      "Wukong Prime Neuroptics"
+    ],
+    "itemUrls": [
+      "wukong_prime_chassis",
+      "wukong_prime_blueprint",
+      "wukong_prime_systems",
+      "wukong_prime_neuroptics"
+    ]
+  },
+  {
+    "name": "Zhuge Prime Set",
+    "url": "zhuge_prime_set",
+    "itemNames": [
+      "Zhuge Prime Barrel",
+      "Zhuge Prime Grip",
+      "Zhuge Prime String",
+      "Zhuge Prime Blueprint",
+      "Zhuge Prime Receiver"
+    ],
+    "itemUrls": [
+      "zhuge_prime_barrel",
+      "zhuge_prime_grip",
+      "zhuge_prime_string",
+      "zhuge_prime_blueprint",
+      "zhuge_prime_receiver"
+    ]
+  },
+  {
+    "name": "Latron Wraith Set",
+    "url": "latron_wraith_set",
+    "itemNames": [
+      "Latron Wraith Barrel",
+      "Latron Wraith Blueprint",
+      "Latron Wraith Receiver",
+      "Latron Wraith Stock"
+    ],
+    "itemUrls": [
+      "latron_wraith_barrel",
+      "latron_wraith_blueprint",
+      "latron_wraith_receiver",
+      "latron_wraith_stock"
+    ]
+  },
+  {
+    "name": "Twin Vipers Wraith Set",
+    "url": "twin_vipers_wraith_set",
+    "itemNames": [
+      "Twin Vipers Wraith Blueprint",
+      "Twin Vipers Wraith Link",
+      "Twin Vipers Wraith Receivers",
+      "Twin Vipers Wraith Barrels"
+    ],
+    "itemUrls": [
+      "twin_vipers_wraith_blueprint",
+      "twin_vipers_wraith_link",
+      "twin_vipers_wraith_receivers",
+      "twin_vipers_wraith_barrels"
+    ]
+  },
+  {
+    "name": "Helios Prime Set",
+    "url": "helios_prime_set",
+    "itemNames": [
+      "Helios Prime Cerebrum",
+      "Helios Prime Carapace",
+      "Helios Prime Blueprint",
+      "Helios Prime Systems"
+    ],
+    "itemUrls": [
+      "helios_prime_cerebrum",
+      "helios_prime_carapace",
+      "helios_prime_blueprint",
+      "helios_prime_systems"
+    ]
+  },
+  {
+    "name": "Hikou Prime Set",
+    "url": "hikou_prime_set",
+    "itemNames": [
+      "Hikou Prime Pouch",
+      "Hikou Prime Blueprint",
+      "Hikou Prime Stars"
+    ],
+    "itemUrls": [
+      "hikou_prime_pouch",
+      "hikou_prime_blueprint",
+      "hikou_prime_stars"
+    ]
+  },
+  {
+    "name": "Paris Prime Set",
+    "url": "paris_prime_set",
+    "itemNames": [
+      "Paris Prime Lower Limb",
+      "Paris Prime Grip",
+      "Paris Prime String",
+      "Paris Prime Blueprint",
+      "Paris Prime Upper Limb"
+    ],
+    "itemUrls": [
+      "paris_prime_lower_limb",
+      "paris_prime_grip",
+      "paris_prime_string",
+      "paris_prime_blueprint",
+      "paris_prime_upper_limb"
+    ]
+  },
+  {
+    "name": "Trinity Prime Set",
+    "url": "trinity_prime_set",
+    "itemNames": [
+      "Trinity Prime Neuroptics",
+      "Trinity Prime Blueprint",
+      "Trinity Prime Chassis",
+      "Trinity Prime Systems"
+    ],
+    "itemUrls": [
+      "trinity_prime_neuroptics",
+      "trinity_prime_blueprint",
+      "trinity_prime_chassis",
+      "trinity_prime_systems"
+    ]
+  },
+  {
+    "name": "Ballistica Prime Set",
+    "url": "ballistica_prime_set",
+    "itemNames": [
+      "Ballistica Prime Blueprint",
+      "Ballistica Prime String",
+      "Ballistica Prime Lower Limb",
+      "Ballistica Prime Receiver",
+      "Ballistica Prime Upper Limb"
+    ],
+    "itemUrls": [
+      "ballistica_prime_blueprint",
+      "ballistica_prime_string",
+      "ballistica_prime_lower_limb",
+      "ballistica_prime_receiver",
+      "ballistica_prime_upper_limb"
+    ]
+  },
+  {
+    "name": "Furax Wraith Set",
+    "url": "furax_wraith_set",
+    "itemNames": [
+      "Furax Wraith Right Gauntlet",
+      "Furax Wraith Left Gauntlet",
+      "Furax Wraith Blueprint"
+    ],
+    "itemUrls": [
+      "furax_wraith_right_gauntlet",
+      "furax_wraith_left_gauntlet",
+      "furax_wraith_blueprint"
+    ]
+  },
+  {
+    "name": "Vasto Prime Set",
+    "url": "vasto_prime_set",
+    "itemNames": [
+      "Vasto Prime Barrel",
+      "Vasto Prime Blueprint",
+      "Vasto Prime Receiver"
+    ],
+    "itemUrls": [
+      "vasto_prime_barrel",
+      "vasto_prime_blueprint",
+      "vasto_prime_receiver"
+    ]
+  },
+  {
+    "name": "Akbronco Prime Set",
+    "url": "akbronco_prime_set",
+    "itemNames": [
+      "Akbronco Prime Link",
+      "Akbronco Prime Blueprint"
+    ],
+    "itemUrls": [
+      "akbronco_prime_link",
+      "akbronco_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Ankyros Prime Set",
+    "url": "ankyros_prime_set",
+    "itemNames": [
+      "Ankyros Prime Blade",
+      "Ankyros Prime Blade",
+      "Ankyros Prime Gauntlet",
+      "Ankyros Prime Gauntlet",
+      "Ankyros Prime Blueprint"
+    ],
+    "itemUrls": [
+      "ankyros_prime_blade",
+      "ankyros_prime_blade",
+      "ankyros_prime_gauntlet",
+      "ankyros_prime_gauntlet",
+      "ankyros_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Carrier Prime Set",
+    "url": "carrier_prime_set",
+    "itemNames": [
+      "Carrier Prime Blueprint",
+      "Carrier Prime Carapace",
+      "Carrier Prime Cerebrum",
+      "Carrier Prime Systems"
+    ],
+    "itemUrls": [
+      "carrier_prime_blueprint",
+      "carrier_prime_carapace",
+      "carrier_prime_cerebrum",
+      "carrier_prime_systems"
+    ]
+  },
+  {
+    "name": "Dakra Prime Set",
+    "url": "dakra_prime_set",
+    "itemNames": [
+      "Dakra Prime Handle",
+      "Dakra Prime Blade",
+      "Dakra Prime Blueprint"
+    ],
+    "itemUrls": [
+      "dakra_prime_handle",
+      "dakra_prime_blade",
+      "dakra_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Dera Vandal Set",
+    "url": "dera_vandal_set",
+    "itemNames": [
+      "Dera Vandal Receiver",
+      "Dera Vandal Stock",
+      "Dera Vandal Barrel",
+      "Dera Vandal Blueprint"
+    ],
+    "itemUrls": [
+      "dera_vandal_receiver",
+      "dera_vandal_stock",
+      "dera_vandal_barrel",
+      "dera_vandal_blueprint"
+    ]
+  },
+  {
+    "name": "Dual Kamas Prime Set",
+    "url": "dual_kamas_prime_set",
+    "itemNames": [
+      "Dual Kamas Prime Blueprint",
+      "Dual Kamas Prime Blade",
+      "Dual Kamas Prime Blade",
+      "Dual Kamas Prime Handle",
+      "Dual Kamas Prime Handle"
+    ],
+    "itemUrls": [
+      "dual_kamas_prime_blueprint",
+      "dual_kamas_prime_blade",
+      "dual_kamas_prime_blade",
+      "dual_kamas_prime_handle",
+      "dual_kamas_prime_handle"
+    ]
+  },
+  {
+    "name": "Ember Prime Set",
+    "url": "ember_prime_set",
+    "itemNames": [
+      "Ember Prime Neuroptics",
+      "Ember Prime Chassis",
+      "Ember Prime Systems",
+      "Ember Prime Blueprint"
+    ],
+    "itemUrls": [
+      "ember_prime_neuroptics",
+      "ember_prime_chassis",
+      "ember_prime_systems",
+      "ember_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Fang Prime Set",
+    "url": "fang_prime_set",
+    "itemNames": [
+      "Fang Prime Handle",
+      "Fang Prime Blade",
+      "Fang Prime Blueprint"
+    ],
+    "itemUrls": [
+      "fang_prime_handle",
+      "fang_prime_blade",
+      "fang_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Mag Prime Set",
+    "url": "mag_prime_set",
+    "itemNames": [
+      "Mag Prime Neuroptics",
+      "Mag Prime Systems",
+      "Mag Prime Chassis",
+      "Mag Prime Blueprint"
+    ],
+    "itemUrls": [
+      "mag_prime_neuroptics",
+      "mag_prime_systems",
+      "mag_prime_chassis",
+      "mag_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Saryn Prime Set",
+    "url": "saryn_prime_set",
+    "itemNames": [
+      "Saryn Prime Systems",
+      "Saryn Prime Blueprint",
+      "Saryn Prime Neuroptics",
+      "Saryn Prime Chassis"
+    ],
+    "itemUrls": [
+      "saryn_prime_systems",
+      "saryn_prime_blueprint",
+      "saryn_prime_neuroptics",
+      "saryn_prime_chassis"
+    ]
+  },
+  {
+    "name": "Snipetron Vandal Set",
+    "url": "snipetron_vandal_set",
+    "itemNames": [
+      "Snipetron Vandal Stock",
+      "Snipetron Vandal Barrel",
+      "Snipetron Vandal Receiver",
+      "Snipetron Vandal Blueprint"
+    ],
+    "itemUrls": [
+      "snipetron_vandal_stock",
+      "snipetron_vandal_barrel",
+      "snipetron_vandal_receiver",
+      "snipetron_vandal_blueprint"
+    ]
+  },
+  {
+    "name": "Venka Prime Set",
+    "url": "venka_prime_set",
+    "itemNames": [
+      "Venka Prime Blueprint",
+      "Venka Prime Gauntlet",
+      "Venka Prime Gauntlet",
+      "Venka Prime Blades",
+      "Venka Prime Blades"
+    ],
+    "itemUrls": [
+      "venka_prime_blueprint",
+      "venka_prime_gauntlet",
+      "venka_prime_gauntlet",
+      "venka_prime_blades",
+      "venka_prime_blades"
+    ]
+  },
+  {
+    "name": "Vectis Prime Set",
+    "url": "vectis_prime_set",
+    "itemNames": [
+      "Vectis Prime Barrel",
+      "Vectis Prime Receiver",
+      "Vectis Prime Stock",
+      "Vectis Prime Blueprint"
+    ],
+    "itemUrls": [
+      "vectis_prime_barrel",
+      "vectis_prime_receiver",
+      "vectis_prime_stock",
+      "vectis_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Gorgon Wraith Set",
+    "url": "gorgon_wraith_set",
+    "itemNames": [
+      "Gorgon Wraith Receiver",
+      "Gorgon Wraith Stock",
+      "Gorgon Wraith Blueprint",
+      "Gorgon Wraith Barrel"
+    ],
+    "itemUrls": [
+      "gorgon_wraith_receiver",
+      "gorgon_wraith_stock",
+      "gorgon_wraith_blueprint",
+      "gorgon_wraith_barrel"
+    ]
+  },
+  {
+    "name": "Scimitar Set",
+    "url": "scimitar_set",
+    "itemNames": [
+      "Scimitar Fuselage",
+      "Scimitar Engines",
+      "Scimitar Avionics"
+    ],
+    "itemUrls": [
+      "scimitar_fuselage",
+      "scimitar_engines",
+      "scimitar_avionics"
+    ]
+  },
+  {
+    "name": "Xiphos Set",
+    "url": "xiphos_set",
+    "itemNames": [
+      "Xiphos Fuselage",
+      "Xiphos Engines",
+      "Xiphos Avionics"
+    ],
+    "itemUrls": [
+      "xiphos_fuselage",
+      "xiphos_engines",
+      "xiphos_avionics"
+    ]
+  },
+  {
+    "name": "Volt Prime Set",
+    "url": "volt_prime_set",
+    "itemNames": [
+      "Volt Prime Neuroptics",
+      "Volt Prime Chassis",
+      "Volt Prime Blueprint",
+      "Volt Prime Systems"
+    ],
+    "itemUrls": [
+      "volt_prime_neuroptics",
+      "volt_prime_chassis",
+      "volt_prime_blueprint",
+      "volt_prime_systems"
+    ]
+  },
+  {
+    "name": "Wyrm Prime Set",
+    "url": "wyrm_prime_set",
+    "itemNames": [
+      "Wyrm Prime Blueprint",
+      "Wyrm Prime Carapace",
+      "Wyrm Prime Systems",
+      "Wyrm Prime Cerebrum"
+    ],
+    "itemUrls": [
+      "wyrm_prime_blueprint",
+      "wyrm_prime_carapace",
+      "wyrm_prime_systems",
+      "wyrm_prime_cerebrum"
+    ]
+  },
+  {
+    "name": "Euphona Prime Set",
+    "url": "euphona_prime_set",
+    "itemNames": [
+      "Euphona Prime Blueprint",
+      "Euphona Prime Barrel",
+      "Euphona Prime Receiver"
+    ],
+    "itemUrls": [
+      "euphona_prime_blueprint",
+      "euphona_prime_barrel",
+      "euphona_prime_receiver"
+    ]
+  },
+  {
+    "name": "Sybaris Prime Set",
+    "url": "sybaris_prime_set",
+    "itemNames": [
+      "Sybaris Prime Blueprint",
+      "Sybaris Prime Barrel",
+      "Sybaris Prime Stock",
+      "Sybaris Prime Receiver"
+    ],
+    "itemUrls": [
+      "sybaris_prime_blueprint",
+      "sybaris_prime_barrel",
+      "sybaris_prime_stock",
+      "sybaris_prime_receiver"
+    ]
+  },
+  {
+    "name": "Bo Prime Set",
+    "url": "bo_prime_set",
+    "itemNames": [
+      "Bo Prime Blueprint",
+      "Bo Prime Handle",
+      "Bo Prime Ornament",
+      "Bo Prime Ornament"
+    ],
+    "itemUrls": [
+      "bo_prime_blueprint",
+      "bo_prime_handle",
+      "bo_prime_ornament",
+      "bo_prime_ornament"
+    ]
+  },
+  {
+    "name": "Boar Prime Set",
+    "url": "boar_prime_set",
+    "itemNames": [
+      "Boar Prime Barrel",
+      "Boar Prime Blueprint",
+      "Boar Prime Receiver",
+      "Boar Prime Stock"
+    ],
+    "itemUrls": [
+      "boar_prime_barrel",
+      "boar_prime_blueprint",
+      "boar_prime_receiver",
+      "boar_prime_stock"
+    ]
+  },
+  {
+    "name": "Boltor Prime Set",
+    "url": "boltor_prime_set",
+    "itemNames": [
+      "Boltor Prime Barrel",
+      "Boltor Prime Blueprint",
+      "Boltor Prime Receiver",
+      "Boltor Prime Stock"
+    ],
+    "itemUrls": [
+      "boltor_prime_barrel",
+      "boltor_prime_blueprint",
+      "boltor_prime_receiver",
+      "boltor_prime_stock"
+    ]
+  },
+  {
+    "name": "Braton Prime Set",
+    "url": "braton_prime_set",
+    "itemNames": [
+      "Braton Prime Stock",
+      "Braton Prime Barrel",
+      "Braton Prime Blueprint",
+      "Braton Prime Receiver"
+    ],
+    "itemUrls": [
+      "braton_prime_stock",
+      "braton_prime_barrel",
+      "braton_prime_blueprint",
+      "braton_prime_receiver"
+    ]
+  },
+  {
+    "name": "Karak Wraith Set",
+    "url": "karak_wraith_set",
+    "itemNames": [
+      "Karak Wraith Blueprint",
+      "Karak Wraith Barrel",
+      "Karak Wraith Receiver",
+      "Karak Wraith Stock"
+    ],
+    "itemUrls": [
+      "karak_wraith_blueprint",
+      "karak_wraith_barrel",
+      "karak_wraith_receiver",
+      "karak_wraith_stock"
+    ]
+  },
+  {
+    "name": "Strun Wraith Set",
+    "url": "strun_wraith_set",
+    "itemNames": [
+      "Strun Wraith Barrel",
+      "Strun Wraith Receiver",
+      "Strun Wraith Stock",
+      "Strun Wraith Blueprint"
+    ],
+    "itemUrls": [
+      "strun_wraith_barrel",
+      "strun_wraith_receiver",
+      "strun_wraith_stock",
+      "strun_wraith_blueprint"
+    ]
+  },
+  {
+    "name": "Nikana Prime Set",
+    "url": "nikana_prime_set",
+    "itemNames": [
+      "Nikana Prime Blueprint",
+      "Nikana Prime Blade",
+      "Nikana Prime Hilt"
+    ],
+    "itemUrls": [
+      "nikana_prime_blueprint",
+      "nikana_prime_blade",
+      "nikana_prime_hilt"
+    ]
+  },
+  {
+    "name": "Banshee Prime Set",
+    "url": "banshee_prime_set",
+    "itemNames": [
+      "Banshee Prime Chassis",
+      "Banshee Prime Neuroptics",
+      "Banshee Prime Systems",
+      "Banshee Prime Blueprint"
+    ],
+    "itemUrls": [
+      "banshee_prime_chassis",
+      "banshee_prime_neuroptics",
+      "banshee_prime_systems",
+      "banshee_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Vauban Prime Set",
+    "url": "vauban_prime_set",
+    "itemNames": [
+      "Vauban Prime Chassis",
+      "Vauban Prime Neuroptics",
+      "Vauban Prime Systems",
+      "Vauban Prime Blueprint"
+    ],
+    "itemUrls": [
+      "vauban_prime_chassis",
+      "vauban_prime_neuroptics",
+      "vauban_prime_systems",
+      "vauban_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Fragor Prime Set",
+    "url": "fragor_prime_set",
+    "itemNames": [
+      "Fragor Prime Blueprint",
+      "Fragor Prime Handle",
+      "Fragor Prime Head"
+    ],
+    "itemUrls": [
+      "fragor_prime_blueprint",
+      "fragor_prime_handle",
+      "fragor_prime_head"
+    ]
+  },
+  {
+    "name": "Oberon Prime Set",
+    "url": "oberon_prime_set",
+    "itemNames": [
+      "Oberon Prime Neuroptics",
+      "Oberon Prime Chassis",
+      "Oberon Prime Systems",
+      "Oberon Prime Blueprint"
+    ],
+    "itemUrls": [
+      "oberon_prime_neuroptics",
+      "oberon_prime_chassis",
+      "oberon_prime_systems",
+      "oberon_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Bronco Prime Set",
+    "url": "bronco_prime_set",
+    "itemNames": [
+      "Bronco Prime Barrel",
+      "Bronco Prime Blueprint",
+      "Bronco Prime Receiver"
+    ],
+    "itemUrls": [
+      "bronco_prime_barrel",
+      "bronco_prime_blueprint",
+      "bronco_prime_receiver"
+    ]
+  },
+  {
+    "name": "Imperator Vandal Set",
+    "url": "imperator_vandal_set",
+    "itemNames": [
+      "Imperator Vandal Barrel",
+      "Imperator Vandal Blueprint",
+      "Imperator Vandal Receiver"
+    ],
+    "itemUrls": [
+      "imperator_vandal_barrel",
+      "imperator_vandal_blueprint",
+      "imperator_vandal_receiver"
+    ]
+  },
+  {
+    "name": "Kronen Prime Set",
+    "url": "kronen_prime_set",
+    "itemNames": [
+      "Kronen Prime Handle",
+      "Kronen Prime Handle",
+      "Kronen Prime Blueprint",
+      "Kronen Prime Blade",
+      "Kronen Prime Blade"
+    ],
+    "itemUrls": [
+      "kronen_prime_handle",
+      "kronen_prime_handle",
+      "kronen_prime_blueprint",
+      "kronen_prime_blade",
+      "kronen_prime_blade"
+    ]
+  },
+  {
+    "name": "Tiberon Prime Set",
+    "url": "tiberon_prime_set",
+    "itemNames": [
+      "Tiberon Prime Blueprint",
+      "Tiberon Prime Stock",
+      "Tiberon Prime Receiver",
+      "Tiberon Prime Barrel"
+    ],
+    "itemUrls": [
+      "tiberon_prime_blueprint",
+      "tiberon_prime_stock",
+      "tiberon_prime_receiver",
+      "tiberon_prime_barrel"
+    ]
+  },
+  {
+    "name": "Mirage Prime Set",
+    "url": "mirage_prime_set",
+    "itemNames": [
+      "Mirage Prime Neuroptics",
+      "Mirage Prime Systems",
+      "Mirage Prime Blueprint",
+      "Mirage Prime Chassis"
+    ],
+    "itemUrls": [
+      "mirage_prime_neuroptics",
+      "mirage_prime_systems",
+      "mirage_prime_blueprint",
+      "mirage_prime_chassis"
+    ]
+  },
+  {
+    "name": "Zephyr Prime Set",
+    "url": "zephyr_prime_set",
+    "itemNames": [
+      "Zephyr Prime Chassis",
+      "Zephyr Prime Systems",
+      "Zephyr Prime Neuroptics",
+      "Zephyr Prime Blueprint"
+    ],
+    "itemUrls": [
+      "zephyr_prime_chassis",
+      "zephyr_prime_systems",
+      "zephyr_prime_neuroptics",
+      "zephyr_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Pyrana Prime Set",
+    "url": "pyrana_prime_set",
+    "itemNames": [
+      "Pyrana Prime Blueprint",
+      "Pyrana Prime Receiver",
+      "Pyrana Prime Barrel"
+    ],
+    "itemUrls": [
+      "pyrana_prime_blueprint",
+      "pyrana_prime_receiver",
+      "pyrana_prime_barrel"
+    ]
+  },
+  {
+    "name": "Ash Prime Set",
+    "url": "ash_prime_set",
+    "itemNames": [
+      "Ash Prime Blueprint",
+      "Ash Prime Chassis",
+      "Ash Prime Systems",
+      "Ash Prime Neuroptics"
+    ],
+    "itemUrls": [
+      "ash_prime_blueprint",
+      "ash_prime_chassis",
+      "ash_prime_systems",
+      "ash_prime_neuroptics"
+    ]
+  },
+  {
+    "name": "Nekros Prime Set",
+    "url": "nekros_prime_set",
+    "itemNames": [
+      "Nekros Prime Chassis",
+      "Nekros Prime Neuroptics",
+      "Nekros Prime Systems",
+      "Nekros Prime Blueprint"
+    ],
+    "itemUrls": [
+      "nekros_prime_chassis",
+      "nekros_prime_neuroptics",
+      "nekros_prime_systems",
+      "nekros_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Galatine Prime Set",
+    "url": "galatine_prime_set",
+    "itemNames": [
+      "Galatine Prime Handle",
+      "Galatine Prime Blade",
+      "Galatine Prime Blueprint"
+    ],
+    "itemUrls": [
+      "galatine_prime_handle",
+      "galatine_prime_blade",
+      "galatine_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Mesa Prime Set",
+    "url": "mesa_prime_set",
+    "itemNames": [
+      "Mesa Prime Systems",
+      "Mesa Prime Chassis",
+      "Mesa Prime Blueprint",
+      "Mesa Prime Neuroptics"
+    ],
+    "itemUrls": [
+      "mesa_prime_systems",
+      "mesa_prime_chassis",
+      "mesa_prime_blueprint",
+      "mesa_prime_neuroptics"
+    ]
+  },
+  {
+    "name": "Redeemer Prime Set",
+    "url": "redeemer_prime_set",
+    "itemNames": [
+      "Redeemer Prime Blade",
+      "Redeemer Prime Blueprint",
+      "Redeemer Prime Handle"
+    ],
+    "itemUrls": [
+      "redeemer_prime_blade",
+      "redeemer_prime_blueprint",
+      "redeemer_prime_handle"
+    ]
+  },
+  {
+    "name": "Gram Prime Set",
+    "url": "gram_prime_set",
+    "itemNames": [
+      "Gram Prime Handle",
+      "Gram Prime Blade",
+      "Gram Prime Blueprint"
+    ],
+    "itemUrls": [
+      "gram_prime_handle",
+      "gram_prime_blade",
+      "gram_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Akvasto Prime Set",
+    "url": "akvasto_prime_set",
+    "itemNames": [
+      "Akvasto Prime Blueprint",
+      "Akvasto Prime Link",
+      "Vasto Prime Blueprint",
+      "Vasto Prime Blueprint",
+      "Vasto Prime Barrel",
+      "Vasto Prime Barrel",
+      "Vasto Prime Receiver",
+      "Vasto Prime Receiver"
+    ],
+    "itemUrls": [
+      "akvasto_prime_blueprint",
+      "akvasto_prime_link",
+      "vasto_prime_blueprint",
+      "vasto_prime_blueprint",
+      "vasto_prime_barrel",
+      "vasto_prime_barrel",
+      "vasto_prime_receiver",
+      "vasto_prime_receiver"
+    ]
+  },
+  {
+    "name": "Stradavar Prime Set",
+    "url": "stradavar_prime_set",
+    "itemNames": [
+      "Stradavar Prime Receiver",
+      "Stradavar Prime Blueprint",
+      "Stradavar Prime Barrel",
+      "Stradavar Prime Stock"
+    ],
+    "itemUrls": [
+      "stradavar_prime_receiver",
+      "stradavar_prime_blueprint",
+      "stradavar_prime_barrel",
+      "stradavar_prime_stock"
+    ]
+  },
+  {
+    "name": "Glaive Prime Set",
+    "url": "glaive_prime_set",
+    "itemNames": [
+      "Glaive Prime Blade",
+      "Glaive Prime Blueprint",
+      "Glaive Prime Disc"
+    ],
+    "itemUrls": [
+      "glaive_prime_blade",
+      "glaive_prime_blueprint",
+      "glaive_prime_disc"
+    ]
+  },
+  {
+    "name": "Orthos Prime Set",
+    "url": "orthos_prime_set",
+    "itemNames": [
+      "Orthos Prime Blade",
+      "Orthos Prime Handle",
+      "Orthos Prime Blueprint"
+    ],
+    "itemUrls": [
+      "orthos_prime_blade",
+      "orthos_prime_handle",
+      "orthos_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Reaper Prime Set",
+    "url": "reaper_prime_set",
+    "itemNames": [
+      "Reaper Prime Blade",
+      "Reaper Prime Blueprint",
+      "Reaper Prime Handle"
+    ],
+    "itemUrls": [
+      "reaper_prime_blade",
+      "reaper_prime_blueprint",
+      "reaper_prime_handle"
+    ]
+  },
+  {
+    "name": "Rhino Prime Set",
+    "url": "rhino_prime_set",
+    "itemNames": [
+      "Rhino Prime Systems",
+      "Rhino Prime Chassis",
+      "Rhino Prime Neuroptics",
+      "Rhino Prime Blueprint"
+    ],
+    "itemUrls": [
+      "rhino_prime_systems",
+      "rhino_prime_chassis",
+      "rhino_prime_neuroptics",
+      "rhino_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Scindo Prime Set",
+    "url": "scindo_prime_set",
+    "itemNames": [
+      "Scindo Prime Handle",
+      "Scindo Prime Blueprint",
+      "Scindo Prime Blade"
+    ],
+    "itemUrls": [
+      "scindo_prime_handle",
+      "scindo_prime_blueprint",
+      "scindo_prime_blade"
+    ]
+  },
+  {
+    "name": "Sicarus Prime Set",
+    "url": "sicarus_prime_set",
+    "itemNames": [
+      "Sicarus Prime Barrel",
+      "Sicarus Prime Blueprint",
+      "Sicarus Prime Receiver"
+    ],
+    "itemUrls": [
+      "sicarus_prime_barrel",
+      "sicarus_prime_blueprint",
+      "sicarus_prime_receiver"
+    ]
+  },
+  {
+    "name": "Akstiletto Prime Set",
+    "url": "akstiletto_prime_set",
+    "itemNames": [
+      "Akstiletto Prime Blueprint",
+      "Akstiletto Prime Barrel",
+      "Akstiletto Prime Barrel",
+      "Akstiletto Prime Receiver",
+      "Akstiletto Prime Receiver",
+      "Akstiletto Prime Link"
+    ],
+    "itemUrls": [
+      "akstiletto_prime_blueprint",
+      "akstiletto_prime_barrel",
+      "akstiletto_prime_barrel",
+      "akstiletto_prime_receiver",
+      "akstiletto_prime_receiver",
+      "akstiletto_prime_link"
+    ]
+  },
+  {
+    "name": "Amesha Set",
+    "url": "amesha_set",
+    "itemNames": [
+      "Amesha Systems",
+      "Amesha Wings",
+      "Amesha Harness"
+    ],
+    "itemUrls": [
+      "amesha_systems",
+      "amesha_wings",
+      "amesha_harness"
+    ]
+  },
+  {
+    "name": "Elytron Set",
+    "url": "elytron_set",
+    "itemNames": [
+      "Elytron Systems",
+      "Elytron Wings",
+      "Elytron Harness"
+    ],
+    "itemUrls": [
+      "elytron_systems",
+      "elytron_wings",
+      "elytron_harness"
+    ]
+  },
+  {
+    "name": "Itzal Set",
+    "url": "itzal_set",
+    "itemNames": [
+      "Itzal Systems",
+      "Itzal Wings",
+      "Itzal Harness"
+    ],
+    "itemUrls": [
+      "itzal_systems",
+      "itzal_wings",
+      "itzal_harness"
+    ]
+  },
+  {
+    "name": "Tigris Prime Set",
+    "url": "tigris_prime_set",
+    "itemNames": [
+      "Tigris Prime Stock",
+      "Tigris Prime Receiver",
+      "Tigris Prime Blueprint",
+      "Tigris Prime Barrel"
+    ],
+    "itemUrls": [
+      "tigris_prime_stock",
+      "tigris_prime_receiver",
+      "tigris_prime_blueprint",
+      "tigris_prime_barrel"
+    ]
+  },
+  {
+    "name": "Cyngas Set",
+    "url": "cyngas_set",
+    "itemNames": [
+      "Cyngas Barrel",
+      "Cyngas Stock",
+      "Cyngas Receiver"
+    ],
+    "itemUrls": [
+      "cyngas_barrel",
+      "cyngas_stock",
+      "cyngas_receiver"
+    ]
+  },
+  {
+    "name": "Broken War Set",
+    "url": "broken_war_set",
+    "itemNames": [
+      "War Hilt",
+      "War Blade"
+    ],
+    "itemUrls": [
+      "war_hilt",
+      "war_blade"
+    ]
+  },
+  {
+    "name": "Kaszas Set",
+    "url": "kaszas_set",
+    "itemNames": [
+      "Kaszas Blade",
+      "Kaszas Handle"
+    ],
+    "itemUrls": [
+      "kaszas_blade",
+      "kaszas_handle"
+    ]
+  },
+  {
+    "name": "Velocitus Set",
+    "url": "velocitus_set",
+    "itemNames": [
+      "Velocitus Receiver",
+      "Velocitus Stock",
+      "Velocitus Barrel"
+    ],
+    "itemUrls": [
+      "velocitus_receiver",
+      "velocitus_stock",
+      "velocitus_barrel"
+    ]
+  },
+  {
+    "name": "Fluctus Set",
+    "url": "fluctus_set",
+    "itemNames": [
+      "Fluctus Barrel",
+      "Fluctus Limbs",
+      "Fluctus Stock"
+    ],
+    "itemUrls": [
+      "fluctus_barrel",
+      "fluctus_limbs",
+      "fluctus_stock"
+    ]
+  },
+  {
+    "name": "Dual Decurion Set",
+    "url": "dual_decurion_set",
+    "itemNames": [
+      "Decurion Barrel",
+      "Decurion Receiver"
+    ],
+    "itemUrls": [
+      "decurion_barrel",
+      "decurion_receiver"
+    ]
+  },
+  {
+    "name": "Phaedra Set",
+    "url": "phaedra_set",
+    "itemNames": [
+      "Phaedra Barrel",
+      "Phaedra Stock",
+      "Phaedra Receiver"
+    ],
+    "itemUrls": [
+      "phaedra_barrel",
+      "phaedra_stock",
+      "phaedra_receiver"
+    ]
+  },
+  {
+    "name": "Centaur Set",
+    "url": "centaur_set",
+    "itemNames": [
+      "Centaur Aegis",
+      "Centaur Handle",
+      "Centaur Blade"
+    ],
+    "itemUrls": [
+      "centaur_aegis",
+      "centaur_handle",
+      "centaur_blade"
+    ]
+  },
+  {
+    "name": "Onorix Set",
+    "url": "onorix_set",
+    "itemNames": [
+      "Onorix Handle",
+      "Onorix Blade"
+    ],
+    "itemUrls": [
+      "onorix_handle",
+      "onorix_blade"
+    ]
+  },
+  {
+    "name": "Agkuza Set",
+    "url": "agkuza_set",
+    "itemNames": [
+      "Agkuza Guard",
+      "Agkuza Blade",
+      "Agkuza Handle"
+    ],
+    "itemUrls": [
+      "agkuza_guard",
+      "agkuza_blade",
+      "agkuza_handle"
+    ]
+  },
+  {
+    "name": "Corvas Set",
+    "url": "corvas_set",
+    "itemNames": [
+      "Corvas Barrel",
+      "Corvas Receiver",
+      "Corvas Stock"
+    ],
+    "itemUrls": [
+      "corvas_barrel",
+      "corvas_receiver",
+      "corvas_stock"
+    ]
+  },
+  {
+    "name": "Rathbone Set",
+    "url": "rathbone_set",
+    "itemNames": [
+      "Rathbone Handle",
+      "Rathbone Head"
+    ],
+    "itemUrls": [
+      "rathbone_handle",
+      "rathbone_head"
+    ]
+  },
+  {
+    "name": "Cernos Prime Set",
+    "url": "cernos_prime_set",
+    "itemNames": [
+      "Cernos Prime Blueprint",
+      "Cernos Prime Lower Limb",
+      "Cernos Prime Upper Limb",
+      "Cernos Prime Grip",
+      "Cernos Prime String"
+    ],
+    "itemUrls": [
+      "cernos_prime_blueprint",
+      "cernos_prime_lower_limb",
+      "cernos_prime_upper_limb",
+      "cernos_prime_grip",
+      "cernos_prime_string"
+    ]
+  },
+  {
+    "name": "Valkyr Prime Set",
+    "url": "valkyr_prime_set",
+    "itemNames": [
+      "Valkyr Prime Neuroptics",
+      "Valkyr Prime Chassis",
+      "Valkyr Prime Systems",
+      "Valkyr Prime Blueprint"
+    ],
+    "itemUrls": [
+      "valkyr_prime_neuroptics",
+      "valkyr_prime_chassis",
+      "valkyr_prime_systems",
+      "valkyr_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Burston Prime Set",
+    "url": "burston_prime_set",
+    "itemNames": [
+      "Burston Prime Barrel",
+      "Burston Prime Blueprint",
+      "Burston Prime Receiver",
+      "Burston Prime Stock"
+    ],
+    "itemUrls": [
+      "burston_prime_barrel",
+      "burston_prime_blueprint",
+      "burston_prime_receiver",
+      "burston_prime_stock"
+    ]
+  },
+  {
+    "name": "Loki Prime Set",
+    "url": "loki_prime_set",
+    "itemNames": [
+      "Loki Prime Blueprint",
+      "Loki Prime Systems",
+      "Loki Prime Neuroptics",
+      "Loki Prime Chassis"
+    ],
+    "itemUrls": [
+      "loki_prime_blueprint",
+      "loki_prime_systems",
+      "loki_prime_neuroptics",
+      "loki_prime_chassis"
+    ]
+  },
+  {
+    "name": "Nova Prime Set",
+    "url": "nova_prime_set",
+    "itemNames": [
+      "Nova Prime Neuroptics",
+      "Nova Prime Chassis",
+      "Nova Prime Blueprint",
+      "Nova Prime Systems"
+    ],
+    "itemUrls": [
+      "nova_prime_neuroptics",
+      "nova_prime_chassis",
+      "nova_prime_blueprint",
+      "nova_prime_systems"
+    ]
+  },
+  {
+    "name": "Nyx Prime Set",
+    "url": "nyx_prime_set",
+    "itemNames": [
+      "Nyx Prime Blueprint",
+      "Nyx Prime Systems",
+      "Nyx Prime Neuroptics",
+      "Nyx Prime Chassis"
+    ],
+    "itemUrls": [
+      "nyx_prime_blueprint",
+      "nyx_prime_systems",
+      "nyx_prime_neuroptics",
+      "nyx_prime_chassis"
+    ]
+  },
+  {
+    "name": "Soma Prime Set",
+    "url": "soma_prime_set",
+    "itemNames": [
+      "Soma Prime Barrel",
+      "Soma Prime Blueprint",
+      "Soma Prime Receiver",
+      "Soma Prime Stock"
+    ],
+    "itemUrls": [
+      "soma_prime_barrel",
+      "soma_prime_blueprint",
+      "soma_prime_receiver",
+      "soma_prime_stock"
+    ]
+  },
+  {
+    "name": "Spira Prime Set",
+    "url": "spira_prime_set",
+    "itemNames": [
+      "Spira Prime Blade",
+      "Spira Prime Blade",
+      "Spira Prime Pouch",
+      "Spira Prime Pouch",
+      "Spira Prime Blueprint"
+    ],
+    "itemUrls": [
+      "spira_prime_blade",
+      "spira_prime_blade",
+      "spira_prime_pouch",
+      "spira_prime_pouch",
+      "spira_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Sheev Set",
+    "url": "sheev_set",
+    "itemNames": [
+      "Sheev Blueprint",
+      "Sheev Hilt",
+      "Sheev Blade",
+      "Sheev Heatsink"
+    ],
+    "itemUrls": [
+      "sheev_blueprint",
+      "sheev_hilt",
+      "sheev_blade",
+      "sheev_heatsink"
+    ]
+  },
+  {
+    "name": "Nami Skyla Prime Set",
+    "url": "nami_skyla_prime_set",
+    "itemNames": [
+      "Nami Skyla Prime Handle",
+      "Nami Skyla Prime Handle",
+      "Nami Skyla Prime Blueprint",
+      "Nami Skyla Prime Blade",
+      "Nami Skyla Prime Blade"
+    ],
+    "itemUrls": [
+      "nami_skyla_prime_handle",
+      "nami_skyla_prime_handle",
+      "nami_skyla_prime_blueprint",
+      "nami_skyla_prime_blade",
+      "nami_skyla_prime_blade"
+    ]
+  },
+  {
+    "name": "Kogake Prime Set",
+    "url": "kogake_prime_set",
+    "itemNames": [
+      "Kogake Prime Blueprint",
+      "Kogake Prime Boot",
+      "Kogake Prime Gauntlet"
+    ],
+    "itemUrls": [
+      "kogake_prime_blueprint",
+      "kogake_prime_boot",
+      "kogake_prime_gauntlet"
+    ]
+  },
+  {
+    "name": "Akbolto Prime Set",
+    "url": "akbolto_prime_set",
+    "itemNames": [
+      "Akbolto Prime Receiver",
+      "Akbolto Prime Blueprint",
+      "Akbolto Prime Link",
+      "Akbolto Prime Barrel"
+    ],
+    "itemUrls": [
+      "akbolto_prime_receiver",
+      "akbolto_prime_blueprint",
+      "akbolto_prime_link",
+      "akbolto_prime_barrel"
+    ]
+  },
+  {
+    "name": "Lato Vandal Set",
+    "url": "lato_vandal_set",
+    "itemNames": [
+      "Lato Vandal Blueprint",
+      "Lato Vandal Barrel",
+      "Lato Vandal Receiver"
+    ],
+    "itemUrls": [
+      "lato_vandal_blueprint",
+      "lato_vandal_barrel",
+      "lato_vandal_receiver"
+    ]
+  },
+  {
+    "name": "Braton Vandal Set",
+    "url": "braton_vandal_set",
+    "itemNames": [
+      "Braton Vandal Barrel",
+      "Braton Vandal Receiver",
+      "Braton Vandal Stock",
+      "Braton Vandal Blueprint"
+    ],
+    "itemUrls": [
+      "braton_vandal_barrel",
+      "braton_vandal_receiver",
+      "braton_vandal_stock",
+      "braton_vandal_blueprint"
+    ]
+  },
+  {
+    "name": "Limbo Prime Set",
+    "url": "limbo_prime_set",
+    "itemNames": [
+      "Limbo Prime Blueprint",
+      "Limbo Prime Neuroptics",
+      "Limbo Prime Systems",
+      "Limbo Prime Chassis"
+    ],
+    "itemUrls": [
+      "limbo_prime_blueprint",
+      "limbo_prime_neuroptics",
+      "limbo_prime_systems",
+      "limbo_prime_chassis"
+    ]
+  },
+  {
+    "name": "Chroma Prime Set",
+    "url": "chroma_prime_set",
+    "itemNames": [
+      "Chroma Prime Blueprint",
+      "Chroma Prime Systems",
+      "Chroma Prime Chassis",
+      "Chroma Prime Neuroptics"
+    ],
+    "itemUrls": [
+      "chroma_prime_blueprint",
+      "chroma_prime_systems",
+      "chroma_prime_chassis",
+      "chroma_prime_neuroptics"
+    ]
+  },
+  {
+    "name": "Rubico Prime Set",
+    "url": "rubico_prime_set",
+    "itemNames": [
+      "Rubico Prime Barrel",
+      "Rubico Prime Receiver",
+      "Rubico Prime Stock",
+      "Rubico Prime Blueprint"
+    ],
+    "itemUrls": [
+      "rubico_prime_barrel",
+      "rubico_prime_receiver",
+      "rubico_prime_stock",
+      "rubico_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Akjagara Prime Set",
+    "url": "akjagara_prime_set",
+    "itemNames": [
+      "Akjagara Prime Receiver",
+      "Akjagara Prime Barrel",
+      "Akjagara Prime Blueprint",
+      "Akjagara Prime Link"
+    ],
+    "itemUrls": [
+      "akjagara_prime_receiver",
+      "akjagara_prime_barrel",
+      "akjagara_prime_blueprint",
+      "akjagara_prime_link"
+    ]
+  },
+  {
+    "name": "Equinox Prime Set",
+    "url": "equinox_prime_set",
+    "itemNames": [
+      "Equinox Prime Neuroptics",
+      "Equinox Prime Chassis",
+      "Equinox Prime Blueprint",
+      "Equinox Prime Systems"
+    ],
+    "itemUrls": [
+      "equinox_prime_neuroptics",
+      "equinox_prime_chassis",
+      "equinox_prime_blueprint",
+      "equinox_prime_systems"
+    ]
+  },
+  {
+    "name": "Tipedo Prime Set",
+    "url": "tipedo_prime_set",
+    "itemNames": [
+      "Tipedo Prime Handle",
+      "Tipedo Prime Ornament",
+      "Tipedo Prime Blueprint"
+    ],
+    "itemUrls": [
+      "tipedo_prime_handle",
+      "tipedo_prime_ornament",
+      "tipedo_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Pathocyst Set",
+    "url": "pathocyst_set",
+    "itemNames": [
+      "Pathocyst Blueprint",
+      "Pathocyst Blade",
+      "Pathocyst Subcortex"
+    ],
+    "itemUrls": [
+      "pathocyst_blueprint",
+      "pathocyst_blade",
+      "pathocyst_subcortex"
+    ]
+  },
+  {
+    "name": "Atlas Prime Set",
+    "url": "atlas_prime_set",
+    "itemNames": [
+      "Atlas Prime Chassis",
+      "Atlas Prime Systems",
+      "Atlas Prime Neuroptics",
+      "Atlas Prime Blueprint"
+    ],
+    "itemUrls": [
+      "atlas_prime_chassis",
+      "atlas_prime_systems",
+      "atlas_prime_neuroptics",
+      "atlas_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Dethcube Prime Set",
+    "url": "dethcube_prime_set",
+    "itemNames": [
+      "Dethcube Prime Carapace",
+      "Dethcube Prime Cerebrum",
+      "Dethcube Prime Blueprint",
+      "Dethcube Prime Systems"
+    ],
+    "itemUrls": [
+      "dethcube_prime_carapace",
+      "dethcube_prime_cerebrum",
+      "dethcube_prime_blueprint",
+      "dethcube_prime_systems"
+    ]
+  },
+  {
+    "name": "Tekko Prime Set",
+    "url": "tekko_prime_set",
+    "itemNames": [
+      "Tekko Prime Gauntlet",
+      "Tekko Prime Blade",
+      "Tekko Prime Blueprint"
+    ],
+    "itemUrls": [
+      "tekko_prime_gauntlet",
+      "tekko_prime_blade",
+      "tekko_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Ivara Prime Set",
+    "url": "ivara_prime_set",
+    "itemNames": [
+      "Ivara Prime Blueprint",
+      "Ivara Prime Neuroptics",
+      "Ivara Prime Chassis",
+      "Ivara Prime Systems"
+    ],
+    "itemUrls": [
+      "ivara_prime_blueprint",
+      "ivara_prime_neuroptics",
+      "ivara_prime_chassis",
+      "ivara_prime_systems"
+    ]
+  },
+  {
+    "name": "Baza Prime Set",
+    "url": "baza_prime_set",
+    "itemNames": [
+      "Baza Prime Blueprint",
+      "Baza Prime Stock",
+      "Baza Prime Barrel",
+      "Baza Prime Receiver"
+    ],
+    "itemUrls": [
+      "baza_prime_blueprint",
+      "baza_prime_stock",
+      "baza_prime_barrel",
+      "baza_prime_receiver"
+    ]
+  },
+  {
+    "name": "Aksomati Prime Set",
+    "url": "aksomati_prime_set",
+    "itemNames": [
+      "Aksomati Prime Link",
+      "Aksomati Prime Receiver",
+      "Aksomati Prime Blueprint",
+      "Aksomati Prime Barrel"
+    ],
+    "itemUrls": [
+      "aksomati_prime_link",
+      "aksomati_prime_receiver",
+      "aksomati_prime_blueprint",
+      "aksomati_prime_barrel"
+    ]
+  },
+  {
+    "name": "Spectra Vandal Set",
+    "url": "spectra_vandal_set",
+    "itemNames": [
+      "Spectra Vandal Chassis",
+      "Spectra Vandal Barrel",
+      "Spectra Vandal Handle",
+      "Spectra Vandal Blueprint"
+    ],
+    "itemUrls": [
+      "spectra_vandal_chassis",
+      "spectra_vandal_barrel",
+      "spectra_vandal_handle",
+      "spectra_vandal_blueprint"
+    ]
+  },
+  {
+    "name": "Shedu Set",
+    "url": "shedu_set",
+    "itemNames": [
+      "Shedu Handle",
+      "Shedu Barrel",
+      "Shedu Receiver",
+      "Shedu Chassis"
+    ],
+    "itemUrls": [
+      "shedu_handle",
+      "shedu_barrel",
+      "shedu_receiver",
+      "shedu_chassis"
+    ]
+  },
+  {
+    "name": "Corinth Prime Set",
+    "url": "corinth_prime_set",
+    "itemNames": [
+      "Corinth Prime Stock",
+      "Corinth Prime Blueprint",
+      "Corinth Prime Barrel",
+      "Corinth Prime Receiver"
+    ],
+    "itemUrls": [
+      "corinth_prime_stock",
+      "corinth_prime_blueprint",
+      "corinth_prime_barrel",
+      "corinth_prime_receiver"
+    ]
+  },
+  {
+    "name": "Pangolin Prime Set",
+    "url": "pangolin_prime_set",
+    "itemNames": [
+      "Pangolin Prime Handle",
+      "Pangolin Prime Blueprint",
+      "Pangolin Prime Blade"
+    ],
+    "itemUrls": [
+      "pangolin_prime_handle",
+      "pangolin_prime_blueprint",
+      "pangolin_prime_blade"
+    ]
+  },
+  {
+    "name": "Titania Prime Set",
+    "url": "titania_prime_set",
+    "itemNames": [
+      "Titania Prime Chassis",
+      "Titania Prime Systems",
+      "Titania Prime Neuroptics",
+      "Titania Prime Blueprint"
+    ],
+    "itemUrls": [
+      "titania_prime_chassis",
+      "titania_prime_systems",
+      "titania_prime_neuroptics",
+      "titania_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Stropha Set",
+    "url": "stropha_set",
+    "itemNames": [
+      "Stropha Blade",
+      "Stropha Receiver",
+      "Stropha Stock",
+      "Stropha Barrel"
+    ],
+    "itemUrls": [
+      "stropha_blade",
+      "stropha_receiver",
+      "stropha_stock",
+      "stropha_barrel"
+    ]
+  },
+  {
+    "name": "Velox Set",
+    "url": "velox_set",
+    "itemNames": [
+      "Velox Receiver",
+      "Velox Barrel"
+    ],
+    "itemUrls": [
+      "velox_receiver",
+      "velox_barrel"
+    ]
+  },
+  {
+    "name": "Stahlta Set",
+    "url": "stahlta_set",
+    "itemNames": [
+      "Stahlta Barrel",
+      "Stahlta Receiver",
+      "Stahlta Stock"
+    ],
+    "itemUrls": [
+      "stahlta_barrel",
+      "stahlta_receiver",
+      "stahlta_stock"
+    ]
+  },
+  {
+    "name": "Inaros Prime Set",
+    "url": "inaros_prime_set",
+    "itemNames": [
+      "Inaros Prime Chassis",
+      "Inaros Prime Neuroptics",
+      "Inaros Prime Blueprint",
+      "Inaros Prime Systems"
+    ],
+    "itemUrls": [
+      "inaros_prime_chassis",
+      "inaros_prime_neuroptics",
+      "inaros_prime_blueprint",
+      "inaros_prime_systems"
+    ]
+  },
+  {
+    "name": "Karyst Prime Set",
+    "url": "karyst_prime_set",
+    "itemNames": [
+      "Karyst Prime Handle",
+      "Karyst Prime Blueprint",
+      "Karyst Prime Blade"
+    ],
+    "itemUrls": [
+      "karyst_prime_handle",
+      "karyst_prime_blueprint",
+      "karyst_prime_blade"
+    ]
+  },
+  {
+    "name": "Panthera Prime Set",
+    "url": "panthera_prime_set",
+    "itemNames": [
+      "Panthera Prime Stock",
+      "Panthera Prime Barrel",
+      "Panthera Prime Receiver",
+      "Panthera Prime Blueprint"
+    ],
+    "itemUrls": [
+      "panthera_prime_stock",
+      "panthera_prime_barrel",
+      "panthera_prime_receiver",
+      "panthera_prime_blueprint"
+    ]
+  },
+  {
+    "name": "Damaged Necramech Weapon Set",
+    "url": "damaged_necramech_weapon_set",
+    "itemNames": [
+      "Damaged Necramech Weapon Barrel",
+      "Damaged Necramech Weapon Receiver",
+      "Damaged Necramech Weapon Stock"
+    ],
+    "itemUrls": [
+      "damaged_necramech_weapon_barrel",
+      "damaged_necramech_weapon_receiver",
+      "damaged_necramech_weapon_stock"
+    ]
+  },
+  {
+    "name": "Damaged Necramech Set",
+    "url": "damaged_necramech_set",
+    "itemNames": [
+      "Damaged Necramech Weapon Pod",
+      "Damaged Necramech Engine",
+      "Damaged Necramech Pod",
+      "Damaged Necramech Casing"
+    ],
+    "itemUrls": [
+      "damaged_necramech_weapon_pod",
+      "damaged_necramech_engine",
+      "damaged_necramech_pod",
+      "damaged_necramech_casing"
+    ]
+  },
+  {
+    "name": "Guandao Prime Set",
+    "url": "guandao_prime_set",
+    "itemNames": [
+      "Guandao Prime Blade",
+      "Guandao Prime Blueprint",
+      "Guandao Prime Handle"
+    ],
+    "itemUrls": [
+      "guandao_prime_blade",
+      "guandao_prime_blueprint",
+      "guandao_prime_handle"
+    ]
+  },
+  {
+    "name": "Zakti Prime Set",
+    "url": "zakti_prime_set",
+    "itemNames": [
+      "Zakti Prime Blueprint",
+      "Zakti Prime Barrel",
+      "Zakti Prime Receiver"
+    ],
+    "itemUrls": [
+      "zakti_prime_blueprint",
+      "zakti_prime_barrel",
+      "zakti_prime_receiver"
+    ]
+  },
+  {
+    "name": "Nezha Prime Set",
+    "url": "nezha_prime_set",
+    "itemNames": [
+      "Nezha Prime Blueprint",
+      "Nezha Prime Systems",
+      "Nezha Prime Chassis",
+      "Nezha Prime Neuroptics"
+    ],
+    "itemUrls": [
+      "nezha_prime_blueprint",
+      "nezha_prime_systems",
+      "nezha_prime_chassis",
+      "nezha_prime_neuroptics"
+    ]
+  }
+]

@@ -1,0 +1,3734 @@
+[
+  {
+    "name": "Ammo Drum",
+    "url": "ammo_drum"
+  },
+  {
+    "name": "Ammo Drum",
+    "url": "ammo_drum"
+  },
+  {
+    "name": "Pool of Life",
+    "url": "pool_of_life"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "url": "sniper_ammo_mutation"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "url": "rifle_ammo_mutation"
+  },
+  {
+    "name": "Lingering Torment",
+    "url": "lingering_torment"
+  },
+  {
+    "name": "Lingering Torment",
+    "url": "lingering_torment"
+  },
+  {
+    "name": "Hammer Shot",
+    "url": "hammer_shot"
+  },
+  {
+    "name": "Swipe",
+    "url": "swipe"
+  },
+  {
+    "name": "Calculated Shot",
+    "url": "calculated_shot"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Sundering Strike",
+    "url": "sundering_strike"
+  },
+  {
+    "name": "Rupture",
+    "url": "rupture"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "url": "primed_pistol_ammo_mutation"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "url": "primed_shotgun_ammo_mutation"
+  },
+  {
+    "name": "Speed Drift",
+    "url": "speed_drift"
+  },
+  {
+    "name": "Redirection",
+    "url": "redirection"
+  },
+  {
+    "name": "Shield of Shadows",
+    "url": "shield_of_shadows"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Shrapnel Shot",
+    "url": "shrapnel_shot"
+  },
+  {
+    "name": "Ammo Stock",
+    "url": "ammo_stock"
+  },
+  {
+    "name": "Reach",
+    "url": "reach"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Lightning Dash",
+    "url": "lightning_dash"
+  },
+  {
+    "name": "Lightning Rod",
+    "url": "lightning_rod"
+  },
+  {
+    "name": "Lightning Rod",
+    "url": "lightning_rod"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Stunning Speed",
+    "url": "stunning_speed"
+  },
+  {
+    "name": "Calculated Redirection",
+    "url": "calculated_redirection"
+  },
+  {
+    "name": "Razor Shot",
+    "url": "razor_shot"
+  },
+  {
+    "name": "Razor Shot",
+    "url": "razor_shot"
+  },
+  {
+    "name": "Melee Prowess",
+    "url": "melee_prowess"
+  },
+  {
+    "name": "Melee Prowess",
+    "url": "melee_prowess"
+  },
+  {
+    "name": "Intruder",
+    "url": "intruder"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Flak Shot",
+    "url": "flak_shot"
+  },
+  {
+    "name": "Speed Holster",
+    "url": "speed_holster"
+  },
+  {
+    "name": "Hall of Malevolence",
+    "url": "hall_of_malevolence"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Lucky Shot",
+    "url": "lucky_shot"
+  },
+  {
+    "name": "Sinister Reach",
+    "url": "sinister_reach"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "url": "shotgun_ammo_mutation"
+  },
+  {
+    "name": "Shred Shot",
+    "url": "shred_shot"
+  },
+  {
+    "name": "Snap Shot",
+    "url": "snap_shot"
+  },
+  {
+    "name": "Sure Shot",
+    "url": "sure_shot"
+  },
+  {
+    "name": "Sapping Reach",
+    "url": "sapping_reach"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Crash Shot",
+    "url": "crash_shot"
+  },
+  {
+    "name": "Ammo Case",
+    "url": "ammo_case"
+  },
+  {
+    "name": "Ammo Case",
+    "url": "ammo_case"
+  },
+  {
+    "name": "Lie In Wait",
+    "url": "lie_in_wait"
+  },
+  {
+    "name": "Lock and Load",
+    "url": "lock_and_load"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "url": "primed_rifle_ammo_mutation"
+  },
+  {
+    "name": "Razor Munitions",
+    "url": "razor_munitions"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Regen",
+    "url": "regen"
+  },
+  {
+    "name": "Speed Trigger",
+    "url": "speed_trigger"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Primed Regen",
+    "url": "primed_regen"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "url": "pistol_ammo_mutation"
+  },
+  {
+    "name": "Sundering Weave",
+    "url": "sundering_weave"
+  },
+  {
+    "name": "Sundering Weave",
+    "url": "sundering_weave"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Augur Reach",
+    "url": "augur_reach"
+  },
+  {
+    "name": "Winds of Purity",
+    "url": "winds_of_purity"
+  },
+  {
+    "name": "Primed Reach",
+    "url": "primed_reach"
+  },
+  {
+    "name": "Cautious Shot",
+    "url": "cautious_shot"
+  },
+  {
+    "name": "Shocking Speed",
+    "url": "shocking_speed"
+  },
+  {
+    "name": "Assault Mode",
+    "url": "assault_mode"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Path of Statues",
+    "url": "path_of_statues"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Revenge",
+    "url": "revenge"
+  },
+  {
+    "name": "Blind Shot",
+    "url": "blind_shot"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Ammo Chain",
+    "url": "ammo_chain"
+  },
+  {
+    "name": "Wise Razor",
+    "url": "wise_razor"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Guidance",
+    "url": "melee_guidance"
+  },
+  {
+    "name": "Blood for Ammo",
+    "url": "blood_for_ammo"
+  },
+  {
+    "name": "Hit and Run",
+    "url": "hit_and_run"
+  },
+  {
+    "name": "Mending Shot",
+    "url": "mending_shot"
+  },
+  {
+    "name": "Energizing Shot",
+    "url": "energizing_shot"
+  },
+  {
+    "name": "Bomb The Landin'",
+    "url": "bomb_the_landin"
+  },
+  {
+    "name": "Necramech Redirection",
+    "url": "necramech_redirection"
+  },
+  {
+    "name": "Necramech Reach",
+    "url": "necramech_reach"
+  },
+  {
+    "name": "Fracturing Wind",
+    "url": "fracturing_wind"
+  },
+  {
+    "name": "Fracturing Wind",
+    "url": "fracturing_wind"
+  },
+  {
+    "name": "Pool of Life",
+    "url": "pool_of_life"
+  },
+  {
+    "name": "Pressure Point",
+    "url": "pressure_point"
+  },
+  {
+    "name": "Pressure Point",
+    "url": "pressure_point"
+  },
+  {
+    "name": "Infected Clip",
+    "url": "infected_clip"
+  },
+  {
+    "name": "Infected Clip",
+    "url": "infected_clip"
+  },
+  {
+    "name": "Smite Infusion",
+    "url": "smite_infusion"
+  },
+  {
+    "name": "Quaking Hand",
+    "url": "quaking_hand"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Gambit",
+    "url": "pistol_gambit"
+  },
+  {
+    "name": "Pistol Gambit",
+    "url": "pistol_gambit"
+  },
+  {
+    "name": "Vitality",
+    "url": "vitality"
+  },
+  {
+    "name": "Tainted Clip",
+    "url": "tainted_clip"
+  },
+  {
+    "name": "Quick Thinking",
+    "url": "quick_thinking"
+  },
+  {
+    "name": "Sharpened Claws",
+    "url": "sharpened_claws"
+  },
+  {
+    "name": "Sharpened Claws",
+    "url": "sharpened_claws"
+  },
+  {
+    "name": "North Wind",
+    "url": "north_wind"
+  },
+  {
+    "name": "North Wind",
+    "url": "north_wind"
+  },
+  {
+    "name": "Arc Coil",
+    "url": "arc_coil"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Fast Hands",
+    "url": "fast_hands"
+  },
+  {
+    "name": "Fast Hands",
+    "url": "fast_hands"
+  },
+  {
+    "name": "Polar Magazine",
+    "url": "polar_magazine"
+  },
+  {
+    "name": "No Return",
+    "url": "no_return"
+  },
+  {
+    "name": "No Return",
+    "url": "no_return"
+  },
+  {
+    "name": "Sawtooth Clip",
+    "url": "sawtooth_clip"
+  },
+  {
+    "name": "Pointed Wind",
+    "url": "pointed_wind"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "url": "primed_pistol_ammo_mutation"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Smite Corrupted",
+    "url": "smite_corrupted"
+  },
+  {
+    "name": "Secondary Wind",
+    "url": "secondary_wind"
+  },
+  {
+    "name": "Point Strike",
+    "url": "point_strike"
+  },
+  {
+    "name": "Shield of Shadows",
+    "url": "shield_of_shadows"
+  },
+  {
+    "name": "Hollow Point",
+    "url": "hollow_point"
+  },
+  {
+    "name": "Vital Systems Bypass",
+    "url": "vital_systems_bypass"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Smite Infested",
+    "url": "smite_infested"
+  },
+  {
+    "name": "Pressurized Magazine",
+    "url": "pressurized_magazine"
+  },
+  {
+    "name": "Repeater Clip",
+    "url": "repeater_clip"
+  },
+  {
+    "name": "Trick Mag",
+    "url": "trick_mag"
+  },
+  {
+    "name": "Primed Point Blank",
+    "url": "primed_point_blank"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Primed Fast Hands",
+    "url": "primed_fast_hands"
+  },
+  {
+    "name": "Primed Fast Hands",
+    "url": "primed_fast_hands"
+  },
+  {
+    "name": "Steady Hands",
+    "url": "steady_hands"
+  },
+  {
+    "name": "Quick Return",
+    "url": "quick_return"
+  },
+  {
+    "name": "Quick Return",
+    "url": "quick_return"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Reflex Guard",
+    "url": "reflex_guard"
+  },
+  {
+    "name": "Slip Magazine",
+    "url": "slip_magazine"
+  },
+  {
+    "name": "Slip Magazine",
+    "url": "slip_magazine"
+  },
+  {
+    "name": "Enhanced Vitality",
+    "url": "enhanced_vitality"
+  },
+  {
+    "name": "Magazine Extension",
+    "url": "magazine_extension"
+  },
+  {
+    "name": "Magazine Warp",
+    "url": "magazine_warp"
+  },
+  {
+    "name": "Magazine Warp",
+    "url": "magazine_warp"
+  },
+  {
+    "name": "Primed Pressure Point",
+    "url": "primed_pressure_point"
+  },
+  {
+    "name": "Primed Pressure Point",
+    "url": "primed_pressure_point"
+  },
+  {
+    "name": "Pistol Pestilence",
+    "url": "pistol_pestilence"
+  },
+  {
+    "name": "Smite Corpus",
+    "url": "smite_corpus"
+  },
+  {
+    "name": "Blunderbuss",
+    "url": "blunderbuss"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Point Blank",
+    "url": "point_blank"
+  },
+  {
+    "name": "Reflection",
+    "url": "reflection"
+  },
+  {
+    "name": "Suppress",
+    "url": "suppress"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Hall of Malevolence",
+    "url": "hall_of_malevolence"
+  },
+  {
+    "name": "Smite Grineer",
+    "url": "smite_grineer"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Loose Magazine",
+    "url": "loose_magazine"
+  },
+  {
+    "name": "Venomous Clip",
+    "url": "venomous_clip"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Tainted Mag",
+    "url": "tainted_mag"
+  },
+  {
+    "name": "Eject Magazine",
+    "url": "eject_magazine"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Sharpened Bullets",
+    "url": "sharpened_bullets"
+  },
+  {
+    "name": "Reflex Coil",
+    "url": "reflex_coil"
+  },
+  {
+    "name": "Reflex Coil",
+    "url": "reflex_coil"
+  },
+  {
+    "name": "Sharpened Blade",
+    "url": "sharpened_blade"
+  },
+  {
+    "name": "Soft Hands",
+    "url": "soft_hands"
+  },
+  {
+    "name": "Fracturing Crush",
+    "url": "fracturing_crush"
+  },
+  {
+    "name": "Primed Slip Magazine",
+    "url": "primed_slip_magazine"
+  },
+  {
+    "name": "Primed Slip Magazine",
+    "url": "primed_slip_magazine"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Pistol Scavenger",
+    "url": "pistol_scavenger"
+  },
+  {
+    "name": "Lie In Wait",
+    "url": "lie_in_wait"
+  },
+  {
+    "name": "Lock and Load",
+    "url": "lock_and_load"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Eternal War",
+    "url": "eternal_war"
+  },
+  {
+    "name": "Fast Deflection",
+    "url": "fast_deflection"
+  },
+  {
+    "name": "Quick Charge",
+    "url": "quick_charge"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Reflex Draw",
+    "url": "reflex_draw"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "url": "pistol_ammo_mutation"
+  },
+  {
+    "name": "Burdened Magazine",
+    "url": "burdened_magazine"
+  },
+  {
+    "name": "Vital Sense",
+    "url": "vital_sense"
+  },
+  {
+    "name": "Patagium",
+    "url": "patagium"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Winds of Purity",
+    "url": "winds_of_purity"
+  },
+  {
+    "name": "Organ Shatter",
+    "url": "organ_shatter"
+  },
+  {
+    "name": "Organ Shatter",
+    "url": "organ_shatter"
+  },
+  {
+    "name": "No Current Leap",
+    "url": "no_current_leap"
+  },
+  {
+    "name": "Quick Escape",
+    "url": "quick_escape"
+  },
+  {
+    "name": "Pistol Amp",
+    "url": "pistol_amp"
+  },
+  {
+    "name": "Mag Locks",
+    "url": "mag_locks"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Quick Reload",
+    "url": "quick_reload"
+  },
+  {
+    "name": "Path of Statues",
+    "url": "path_of_statues"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Reflect",
+    "url": "reflect"
+  },
+  {
+    "name": "Rending Wind",
+    "url": "rending_wind"
+  },
+  {
+    "name": "Healing Return",
+    "url": "healing_return"
+  },
+  {
+    "name": "Primed Pistol Gambit",
+    "url": "primed_pistol_gambit"
+  },
+  {
+    "name": "Primed Pistol Gambit",
+    "url": "primed_pistol_gambit"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Synth Reflex",
+    "url": "synth_reflex"
+  },
+  {
+    "name": "Lashing Coil",
+    "url": "lashing_coil"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Hit and Run",
+    "url": "hit_and_run"
+  },
+  {
+    "name": "Primed Smite Infested",
+    "url": "primed_smite_infested"
+  },
+  {
+    "name": "Primed Smite Grineer",
+    "url": "primed_smite_grineer"
+  },
+  {
+    "name": "Primed Smite Corpus",
+    "url": "primed_smite_corpus"
+  },
+  {
+    "name": "Primed Smite Corrupted",
+    "url": "primed_smite_corrupted"
+  },
+  {
+    "name": "Necramech Pressure Point",
+    "url": "necramech_pressure_point"
+  },
+  {
+    "name": "Necramech Pressure Point",
+    "url": "necramech_pressure_point"
+  },
+  {
+    "name": "Necramech Vitality",
+    "url": "necramech_vitality"
+  },
+  {
+    "name": "Bomb The Landin'",
+    "url": "bomb_the_landin"
+  },
+  {
+    "name": "Heavy Impact",
+    "url": "heavy_impact"
+  },
+  {
+    "name": "Thunderbolt",
+    "url": "thunderbolt"
+  },
+  {
+    "name": "Cleanse Infested",
+    "url": "cleanse_infested"
+  },
+  {
+    "name": "Cleanse Corrupted",
+    "url": "cleanse_corrupted"
+  },
+  {
+    "name": "Flame Gland",
+    "url": "flame_gland"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Heavy Caliber",
+    "url": "heavy_caliber"
+  },
+  {
+    "name": "Healing Flame",
+    "url": "healing_flame"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Heavy Trauma",
+    "url": "heavy_trauma"
+  },
+  {
+    "name": "Gemini Cross",
+    "url": "gemini_cross"
+  },
+  {
+    "name": "Crossing Snakes",
+    "url": "crossing_snakes"
+  },
+  {
+    "name": "Crossing Snakes",
+    "url": "crossing_snakes"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Sudden Justice",
+    "url": "sudden_justice"
+  },
+  {
+    "name": "Cleanse Corpus",
+    "url": "cleanse_corpus"
+  },
+  {
+    "name": "Accelerated Deflection",
+    "url": "accelerated_deflection"
+  },
+  {
+    "name": "Thief's Wit",
+    "url": "thiefs_wit"
+  },
+  {
+    "name": "Thief's Wit",
+    "url": "thiefs_wit"
+  },
+  {
+    "name": "Sudden Impact",
+    "url": "sudden_impact"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Heavy Warhead",
+    "url": "heavy_warhead"
+  },
+  {
+    "name": "Cleanse Grineer",
+    "url": "cleanse_grineer"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Flame Repellent",
+    "url": "flame_repellent"
+  },
+  {
+    "name": "Flame Repellent",
+    "url": "flame_repellent"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Lie In Wait",
+    "url": "lie_in_wait"
+  },
+  {
+    "name": "Primed Heavy Trauma",
+    "url": "primed_heavy_trauma"
+  },
+  {
+    "name": "Fast Deflection",
+    "url": "fast_deflection"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Master Thief",
+    "url": "master_thief"
+  },
+  {
+    "name": "Hastened Deflection",
+    "url": "hastened_deflection"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Primed Cleanse Grineer",
+    "url": "primed_cleanse_grineer"
+  },
+  {
+    "name": "Primed Cleanse Infested",
+    "url": "primed_cleanse_infested"
+  },
+  {
+    "name": "Primed Cleanse Corpus",
+    "url": "primed_cleanse_corpus"
+  },
+  {
+    "name": "Primed Cleanse Corrupted",
+    "url": "primed_cleanse_corrupted"
+  },
+  {
+    "name": "Ammo Drum",
+    "url": "ammo_drum"
+  },
+  {
+    "name": "Pool of Life",
+    "url": "pool_of_life"
+  },
+  {
+    "name": "Justice Blades",
+    "url": "justice_blades"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "url": "sniper_ammo_mutation"
+  },
+  {
+    "name": "Blind Rage",
+    "url": "blind_rage"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "url": "rifle_ammo_mutation"
+  },
+  {
+    "name": "Target Cracker",
+    "url": "target_cracker"
+  },
+  {
+    "name": "Target Cracker",
+    "url": "target_cracker"
+  },
+  {
+    "name": "Eagle Eye",
+    "url": "eagle_eye"
+  },
+  {
+    "name": "Neutralizing Justice",
+    "url": "neutralizing_justice"
+  },
+  {
+    "name": "Dead Eye",
+    "url": "dead_eye"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shattering Justice",
+    "url": "shattering_justice"
+  },
+  {
+    "name": "Stabilizer",
+    "url": "stabilizer"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "url": "primed_pistol_ammo_mutation"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "url": "primed_shotgun_ammo_mutation"
+  },
+  {
+    "name": "Sudden Justice",
+    "url": "sudden_justice"
+  },
+  {
+    "name": "Streamline",
+    "url": "streamline"
+  },
+  {
+    "name": "Shield of Shadows",
+    "url": "shield_of_shadows"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Firewalker",
+    "url": "firewalker"
+  },
+  {
+    "name": "Rending Turn",
+    "url": "rending_turn"
+  },
+  {
+    "name": "Ammo Stock",
+    "url": "ammo_stock"
+  },
+  {
+    "name": "Trick Mag",
+    "url": "trick_mag"
+  },
+  {
+    "name": "Reach",
+    "url": "reach"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Scattered Justice",
+    "url": "scattered_justice"
+  },
+  {
+    "name": "Shell Compression",
+    "url": "shell_compression"
+  },
+  {
+    "name": "Ice Spring",
+    "url": "ice_spring"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Accelerated Deflection",
+    "url": "accelerated_deflection"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Target Fixation",
+    "url": "target_fixation"
+  },
+  {
+    "name": "Hall of Malevolence",
+    "url": "hall_of_malevolence"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Sinister Reach",
+    "url": "sinister_reach"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Tainted Mag",
+    "url": "tainted_mag"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "url": "shotgun_ammo_mutation"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Sapping Reach",
+    "url": "sapping_reach"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Broad Eye",
+    "url": "broad_eye"
+  },
+  {
+    "name": "Calculated Spring",
+    "url": "calculated_spring"
+  },
+  {
+    "name": "Ammo Case",
+    "url": "ammo_case"
+  },
+  {
+    "name": "Target Acquired",
+    "url": "target_acquired"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Hawk Eye",
+    "url": "hawk_eye"
+  },
+  {
+    "name": "Hawk Eye",
+    "url": "hawk_eye"
+  },
+  {
+    "name": "Fast Deflection",
+    "url": "fast_deflection"
+  },
+  {
+    "name": "Primed Target Cracker",
+    "url": "primed_target_cracker"
+  },
+  {
+    "name": "Primed Target Cracker",
+    "url": "primed_target_cracker"
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "url": "primed_rifle_ammo_mutation"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "url": "pistol_ammo_mutation"
+  },
+  {
+    "name": "Hastened Deflection",
+    "url": "hastened_deflection"
+  },
+  {
+    "name": "Blind Justice",
+    "url": "blind_justice"
+  },
+  {
+    "name": "Blind Justice",
+    "url": "blind_justice"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Augur Reach",
+    "url": "augur_reach"
+  },
+  {
+    "name": "Extend",
+    "url": "extend"
+  },
+  {
+    "name": "Winds of Purity",
+    "url": "winds_of_purity"
+  },
+  {
+    "name": "Primed Reach",
+    "url": "primed_reach"
+  },
+  {
+    "name": "Jet Stream",
+    "url": "jet_stream"
+  },
+  {
+    "name": "Marked Target",
+    "url": "marked_target"
+  },
+  {
+    "name": "Mag Locks",
+    "url": "mag_locks"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Path of Statues",
+    "url": "path_of_statues"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Cat's Eye",
+    "url": "cats_eye"
+  },
+  {
+    "name": "Pain Threshold",
+    "url": "pain_threshold"
+  },
+  {
+    "name": "Pain Threshold",
+    "url": "pain_threshold"
+  },
+  {
+    "name": "Blind Shot",
+    "url": "blind_shot"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Ammo Chain",
+    "url": "ammo_chain"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Blood for Ammo",
+    "url": "blood_for_ammo"
+  },
+  {
+    "name": "Bomb The Landin'",
+    "url": "bomb_the_landin"
+  },
+  {
+    "name": "Necramech Reach",
+    "url": "necramech_reach"
+  },
+  {
+    "name": "Necramech Streamline",
+    "url": "necramech_streamline"
+  },
+  {
+    "name": "Pool of Life",
+    "url": "pool_of_life"
+  },
+  {
+    "name": "Smite Infusion",
+    "url": "smite_infusion"
+  },
+  {
+    "name": "Cleanse Infested",
+    "url": "cleanse_infested"
+  },
+  {
+    "name": "Primed Expel Grineer",
+    "url": "primed_expel_grineer"
+  },
+  {
+    "name": "Primed Expel Corpus",
+    "url": "primed_expel_corpus"
+  },
+  {
+    "name": "Primed Expel Infested",
+    "url": "primed_expel_infested"
+  },
+  {
+    "name": "Primed Expel Infested",
+    "url": "primed_expel_infested"
+  },
+  {
+    "name": "Primed Expel Corrupted",
+    "url": "primed_expel_corrupted"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Expel Infested",
+    "url": "expel_infested"
+  },
+  {
+    "name": "Expel Infested",
+    "url": "expel_infested"
+  },
+  {
+    "name": "Expel Corpus",
+    "url": "expel_corpus"
+  },
+  {
+    "name": "Expel Corrupted",
+    "url": "expel_corrupted"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Spare Parts",
+    "url": "spare_parts"
+  },
+  {
+    "name": "Spare Parts",
+    "url": "spare_parts"
+  },
+  {
+    "name": "Continuous Misery",
+    "url": "continuous_misery"
+  },
+  {
+    "name": "Continuous Misery",
+    "url": "continuous_misery"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Smite Corrupted",
+    "url": "smite_corrupted"
+  },
+  {
+    "name": "Tactical Retreat",
+    "url": "tactical_retreat"
+  },
+  {
+    "name": "Shield of Shadows",
+    "url": "shield_of_shadows"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Tactical Pump",
+    "url": "tactical_pump"
+  },
+  {
+    "name": "Tactical Pump",
+    "url": "tactical_pump"
+  },
+  {
+    "name": "Smite Infested",
+    "url": "smite_infested"
+  },
+  {
+    "name": "Smite Infested",
+    "url": "smite_infested"
+  },
+  {
+    "name": "Expel Grineer",
+    "url": "expel_grineer"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Lasting Sting",
+    "url": "lasting_sting"
+  },
+  {
+    "name": "Lasting Sting",
+    "url": "lasting_sting"
+  },
+  {
+    "name": "Steel Fiber",
+    "url": "steel_fiber"
+  },
+  {
+    "name": "Metal Fiber",
+    "url": "metal_fiber"
+  },
+  {
+    "name": "Lasting Purity",
+    "url": "lasting_purity"
+  },
+  {
+    "name": "Grim Fury",
+    "url": "grim_fury"
+  },
+  {
+    "name": "Smite Corpus",
+    "url": "smite_corpus"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Hall of Malevolence",
+    "url": "hall_of_malevolence"
+  },
+  {
+    "name": "Smite Grineer",
+    "url": "smite_grineer"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Infested Impedance",
+    "url": "infested_impedance"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Tactical Reload",
+    "url": "tactical_reload"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Lie In Wait",
+    "url": "lie_in_wait"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Martial Fury",
+    "url": "martial_fury"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Poisonous Sting",
+    "url": "poisonous_sting"
+  },
+  {
+    "name": "Lasting Covenant",
+    "url": "lasting_covenant"
+  },
+  {
+    "name": "Seeking Fury",
+    "url": "seeking_fury"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Fury",
+    "url": "fury"
+  },
+  {
+    "name": "Winds of Purity",
+    "url": "winds_of_purity"
+  },
+  {
+    "name": "Last Herald",
+    "url": "last_herald"
+  },
+  {
+    "name": "Piercing Fury",
+    "url": "piercing_fury"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Path of Statues",
+    "url": "path_of_statues"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Medi-Pet Kit",
+    "url": "medi_pet_kit"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Synth Fiber",
+    "url": "synth_fiber"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Repair Kit",
+    "url": "repair_kit"
+  },
+  {
+    "name": "Repair Kit",
+    "url": "repair_kit"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Failsafe",
+    "url": "failsafe"
+  },
+  {
+    "name": "Primed Smite Infested",
+    "url": "primed_smite_infested"
+  },
+  {
+    "name": "Primed Smite Infested",
+    "url": "primed_smite_infested"
+  },
+  {
+    "name": "Primed Smite Grineer",
+    "url": "primed_smite_grineer"
+  },
+  {
+    "name": "Primed Smite Corpus",
+    "url": "primed_smite_corpus"
+  },
+  {
+    "name": "Primed Smite Corrupted",
+    "url": "primed_smite_corrupted"
+  },
+  {
+    "name": "Primed Cleanse Infested",
+    "url": "primed_cleanse_infested"
+  },
+  {
+    "name": "Bomb The Landin'",
+    "url": "bomb_the_landin"
+  },
+  {
+    "name": "Necramech Steel Fiber",
+    "url": "necramech_steel_fiber"
+  },
+  {
+    "name": "Necramech Fury",
+    "url": "necramech_fury"
+  },
+  {
+    "name": "Combo Fury",
+    "url": "combo_fury"
+  },
+  {
+    "name": "Pool of Life",
+    "url": "pool_of_life"
+  },
+  {
+    "name": "Fatal Attraction",
+    "url": "fatal_attraction"
+  },
+  {
+    "name": "Primed Expel Corpus",
+    "url": "primed_expel_corpus"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Aero Vantage",
+    "url": "aero_vantage"
+  },
+  {
+    "name": "Piercing Hit",
+    "url": "piercing_hit"
+  },
+  {
+    "name": "Piercing Hit",
+    "url": "piercing_hit"
+  },
+  {
+    "name": "Blazing Steel",
+    "url": "blazing_steel"
+  },
+  {
+    "name": "Expel Corpus",
+    "url": "expel_corpus"
+  },
+  {
+    "name": "Hammer Shot",
+    "url": "hammer_shot"
+  },
+  {
+    "name": "Incendiary Coat",
+    "url": "incendiary_coat"
+  },
+  {
+    "name": "Heated Charge",
+    "url": "heated_charge"
+  },
+  {
+    "name": "Heated Charge",
+    "url": "heated_charge"
+  },
+  {
+    "name": "Shotgun Scavenger",
+    "url": "shotgun_scavenger"
+  },
+  {
+    "name": "Calculated Shot",
+    "url": "calculated_shot"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Power Throw",
+    "url": "power_throw"
+  },
+  {
+    "name": "Power Throw",
+    "url": "power_throw"
+  },
+  {
+    "name": "Undying Will",
+    "url": "undying_will"
+  },
+  {
+    "name": "Undying Will",
+    "url": "undying_will"
+  },
+  {
+    "name": "Gemini Cross",
+    "url": "gemini_cross"
+  },
+  {
+    "name": "Gemini Cross",
+    "url": "gemini_cross"
+  },
+  {
+    "name": "Shotgun Spazz",
+    "url": "shotgun_spazz"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Piercing Navigator",
+    "url": "piercing_navigator"
+  },
+  {
+    "name": "Piercing Caliber",
+    "url": "piercing_caliber"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "url": "primed_shotgun_ammo_mutation"
+  },
+  {
+    "name": "Power Drift",
+    "url": "power_drift"
+  },
+  {
+    "name": "Piercing Roar",
+    "url": "piercing_roar"
+  },
+  {
+    "name": "Vile Acceleration",
+    "url": "vile_acceleration"
+  },
+  {
+    "name": "Shotgun Savvy",
+    "url": "shotgun_savvy"
+  },
+  {
+    "name": "Perpetual Agony",
+    "url": "perpetual_agony"
+  },
+  {
+    "name": "Perpetual Agony",
+    "url": "perpetual_agony"
+  },
+  {
+    "name": "Shield of Shadows",
+    "url": "shield_of_shadows"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Shrapnel Shot",
+    "url": "shrapnel_shot"
+  },
+  {
+    "name": "Sequence Burn",
+    "url": "sequence_burn"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Primed Heated Charge",
+    "url": "primed_heated_charge"
+  },
+  {
+    "name": "Primed Heated Charge",
+    "url": "primed_heated_charge"
+  },
+  {
+    "name": "Piercing Step",
+    "url": "piercing_step"
+  },
+  {
+    "name": "Steel Charge",
+    "url": "steel_charge"
+  },
+  {
+    "name": "Steel Charge",
+    "url": "steel_charge"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Steel Fiber",
+    "url": "steel_fiber"
+  },
+  {
+    "name": "Ironclad Charge",
+    "url": "ironclad_charge"
+  },
+  {
+    "name": "Cleanse Corpus",
+    "url": "cleanse_corpus"
+  },
+  {
+    "name": "Searing Steel",
+    "url": "searing_steel"
+  },
+  {
+    "name": "Razor Shot",
+    "url": "razor_shot"
+  },
+  {
+    "name": "Fatal Acceleration",
+    "url": "fatal_acceleration"
+  },
+  {
+    "name": "Fatal Acceleration",
+    "url": "fatal_acceleration"
+  },
+  {
+    "name": "Smite Corpus",
+    "url": "smite_corpus"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "True Punishment",
+    "url": "true_punishment"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Flak Shot",
+    "url": "flak_shot"
+  },
+  {
+    "name": "Hall of Malevolence",
+    "url": "hall_of_malevolence"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Lucky Shot",
+    "url": "lucky_shot"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Warm Coat",
+    "url": "warm_coat"
+  },
+  {
+    "name": "Warm Coat",
+    "url": "warm_coat"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "url": "shotgun_ammo_mutation"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Burning Wasp",
+    "url": "burning_wasp"
+  },
+  {
+    "name": "Burning Wasp",
+    "url": "burning_wasp"
+  },
+  {
+    "name": "Shred Shot",
+    "url": "shred_shot"
+  },
+  {
+    "name": "Snap Shot",
+    "url": "snap_shot"
+  },
+  {
+    "name": "Sure Shot",
+    "url": "sure_shot"
+  },
+  {
+    "name": "Focused Acceleration",
+    "url": "focused_acceleration"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Crash Shot",
+    "url": "crash_shot"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Eternal War",
+    "url": "eternal_war"
+  },
+  {
+    "name": "Quick Charge",
+    "url": "quick_charge"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Fatal Teleport",
+    "url": "fatal_teleport"
+  },
+  {
+    "name": "True Steel",
+    "url": "true_steel"
+  },
+  {
+    "name": "True Steel",
+    "url": "true_steel"
+  },
+  {
+    "name": "Auxiliary Power",
+    "url": "auxiliary_power"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Winds of Purity",
+    "url": "winds_of_purity"
+  },
+  {
+    "name": "Power Donation",
+    "url": "power_donation"
+  },
+  {
+    "name": "Cautious Shot",
+    "url": "cautious_shot"
+  },
+  {
+    "name": "Growing Power",
+    "url": "growing_power"
+  },
+  {
+    "name": "Shotgun Amp",
+    "url": "shotgun_amp"
+  },
+  {
+    "name": "Rising Steel",
+    "url": "rising_steel"
+  },
+  {
+    "name": "Piercing Fury",
+    "url": "piercing_fury"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Path of Statues",
+    "url": "path_of_statues"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Reflect",
+    "url": "reflect"
+  },
+  {
+    "name": "Corrupt Charge",
+    "url": "corrupt_charge"
+  },
+  {
+    "name": "Blind Shot",
+    "url": "blind_shot"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Synth Charge",
+    "url": "synth_charge"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Aero Periphery",
+    "url": "aero_periphery"
+  },
+  {
+    "name": "Aero Periphery",
+    "url": "aero_periphery"
+  },
+  {
+    "name": "Aero Agility",
+    "url": "aero_agility"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Hit and Run",
+    "url": "hit_and_run"
+  },
+  {
+    "name": "Primed Smite Corpus",
+    "url": "primed_smite_corpus"
+  },
+  {
+    "name": "Mending Shot",
+    "url": "mending_shot"
+  },
+  {
+    "name": "Energizing Shot",
+    "url": "energizing_shot"
+  },
+  {
+    "name": "Primed Cleanse Corpus",
+    "url": "primed_cleanse_corpus"
+  },
+  {
+    "name": "Necramech Steel Fiber",
+    "url": "necramech_steel_fiber"
+  },
+  {
+    "name": "Crescent Charge",
+    "url": "crescent_charge"
+  },
+  {
+    "name": "Ammo Drum",
+    "url": "ammo_drum"
+  },
+  {
+    "name": "Justice Blades",
+    "url": "justice_blades"
+  },
+  {
+    "name": "Hydraulic Chamber",
+    "url": "hydraulic_chamber"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "url": "sniper_ammo_mutation"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "url": "sniper_ammo_mutation"
+  },
+  {
+    "name": "Blind Rage",
+    "url": "blind_rage"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "url": "rifle_ammo_mutation"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "url": "rifle_ammo_mutation"
+  },
+  {
+    "name": "Target Cracker",
+    "url": "target_cracker"
+  },
+  {
+    "name": "Target Cracker",
+    "url": "target_cracker"
+  },
+  {
+    "name": "Split Chamber",
+    "url": "split_chamber"
+  },
+  {
+    "name": "Eagle Eye",
+    "url": "eagle_eye"
+  },
+  {
+    "name": "Argon Plating",
+    "url": "argon_plating"
+  },
+  {
+    "name": "Neutralizing Justice",
+    "url": "neutralizing_justice"
+  },
+  {
+    "name": "Dead Eye",
+    "url": "dead_eye"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shattering Justice",
+    "url": "shattering_justice"
+  },
+  {
+    "name": "Fast Hands",
+    "url": "fast_hands"
+  },
+  {
+    "name": "Polar Magazine",
+    "url": "polar_magazine"
+  },
+  {
+    "name": "Vaporize",
+    "url": "vaporize"
+  },
+  {
+    "name": "Stabilizer",
+    "url": "stabilizer"
+  },
+  {
+    "name": "Charged Chamber",
+    "url": "charged_chamber"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "url": "primed_pistol_ammo_mutation"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "url": "primed_pistol_ammo_mutation"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "url": "primed_shotgun_ammo_mutation"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "url": "primed_shotgun_ammo_mutation"
+  },
+  {
+    "name": "Sudden Justice",
+    "url": "sudden_justice"
+  },
+  {
+    "name": "Blood Rush",
+    "url": "blood_rush"
+  },
+  {
+    "name": "Pressurized Magazine",
+    "url": "pressurized_magazine"
+  },
+  {
+    "name": "Ammo Stock",
+    "url": "ammo_stock"
+  },
+  {
+    "name": "Spring-Loaded Chamber",
+    "url": "spring_loaded_chamber"
+  },
+  {
+    "name": "Tainted Shell",
+    "url": "tainted_shell"
+  },
+  {
+    "name": "Magma Chamber",
+    "url": "magma_chamber"
+  },
+  {
+    "name": "Trick Mag",
+    "url": "trick_mag"
+  },
+  {
+    "name": "Primed Fast Hands",
+    "url": "primed_fast_hands"
+  },
+  {
+    "name": "Scattered Justice",
+    "url": "scattered_justice"
+  },
+  {
+    "name": "Shell Compression",
+    "url": "shell_compression"
+  },
+  {
+    "name": "Shell Compression",
+    "url": "shell_compression"
+  },
+  {
+    "name": "Slip Magazine",
+    "url": "slip_magazine"
+  },
+  {
+    "name": "Slip Magazine",
+    "url": "slip_magazine"
+  },
+  {
+    "name": "Magazine Extension",
+    "url": "magazine_extension"
+  },
+  {
+    "name": "Magazine Warp",
+    "url": "magazine_warp"
+  },
+  {
+    "name": "Charged Shell",
+    "url": "charged_shell"
+  },
+  {
+    "name": "Accelerated Deflection",
+    "url": "accelerated_deflection"
+  },
+  {
+    "name": "Hell's Chamber",
+    "url": "hells_chamber"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Target Fixation",
+    "url": "target_fixation"
+  },
+  {
+    "name": "Loose Magazine",
+    "url": "loose_magazine"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Tainted Mag",
+    "url": "tainted_mag"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "url": "shotgun_ammo_mutation"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "url": "shotgun_ammo_mutation"
+  },
+  {
+    "name": "Eject Magazine",
+    "url": "eject_magazine"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Argon Scope",
+    "url": "argon_scope"
+  },
+  {
+    "name": "Primed Slip Magazine",
+    "url": "primed_slip_magazine"
+  },
+  {
+    "name": "Primed Slip Magazine",
+    "url": "primed_slip_magazine"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Broad Eye",
+    "url": "broad_eye"
+  },
+  {
+    "name": "Ammo Case",
+    "url": "ammo_case"
+  },
+  {
+    "name": "Target Acquired",
+    "url": "target_acquired"
+  },
+  {
+    "name": "Hawk Eye",
+    "url": "hawk_eye"
+  },
+  {
+    "name": "Hawk Eye",
+    "url": "hawk_eye"
+  },
+  {
+    "name": "Fast Deflection",
+    "url": "fast_deflection"
+  },
+  {
+    "name": "Fast Deflection",
+    "url": "fast_deflection"
+  },
+  {
+    "name": "Primed Target Cracker",
+    "url": "primed_target_cracker"
+  },
+  {
+    "name": "Primed Target Cracker",
+    "url": "primed_target_cracker"
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "url": "primed_rifle_ammo_mutation"
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "url": "primed_rifle_ammo_mutation"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Shell Rush",
+    "url": "shell_rush"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "url": "pistol_ammo_mutation"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "url": "pistol_ammo_mutation"
+  },
+  {
+    "name": "Burdened Magazine",
+    "url": "burdened_magazine"
+  },
+  {
+    "name": "Arrow Mutation",
+    "url": "arrow_mutation"
+  },
+  {
+    "name": "Hastened Deflection",
+    "url": "hastened_deflection"
+  },
+  {
+    "name": "Shell Shock",
+    "url": "shell_shock"
+  },
+  {
+    "name": "Primed Chamber",
+    "url": "primed_chamber"
+  },
+  {
+    "name": "Blind Justice",
+    "url": "blind_justice"
+  },
+  {
+    "name": "Blind Justice",
+    "url": "blind_justice"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Extend",
+    "url": "extend"
+  },
+  {
+    "name": "Primed Charged Shell",
+    "url": "primed_charged_shell"
+  },
+  {
+    "name": "Hypothermic Shell",
+    "url": "hypothermic_shell"
+  },
+  {
+    "name": "Marked Target",
+    "url": "marked_target"
+  },
+  {
+    "name": "Mag Locks",
+    "url": "mag_locks"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Cat's Eye",
+    "url": "cats_eye"
+  },
+  {
+    "name": "Pain Threshold",
+    "url": "pain_threshold"
+  },
+  {
+    "name": "Blind Shot",
+    "url": "blind_shot"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Loose Chamber",
+    "url": "loose_chamber"
+  },
+  {
+    "name": "Ammo Chain",
+    "url": "ammo_chain"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Blood for Ammo",
+    "url": "blood_for_ammo"
+  },
+  {
+    "name": "Blood for Ammo",
+    "url": "blood_for_ammo"
+  },
+  {
+    "name": "Blood for Energy",
+    "url": "blood_for_energy"
+  },
+  {
+    "name": "Blood for Life",
+    "url": "blood_for_life"
+  },
+  {
+    "name": "Blood Forge",
+    "url": "blood_forge"
+  },
+  {
+    "name": "Abundant Mutation",
+    "url": "abundant_mutation"
+  },
+  {
+    "name": "Vapor Trail",
+    "url": "vapor_trail"
+  },
+  {
+    "name": "Double Tap",
+    "url": "double_tap"
+  },
+  {
+    "name": "Final Tap",
+    "url": "final_tap"
+  },
+  {
+    "name": "Narrow Barrel",
+    "url": "narrow_barrel"
+  },
+  {
+    "name": "Comet Blast",
+    "url": "comet_blast"
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "url": "sniper_ammo_mutation"
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "url": "rifle_ammo_mutation"
+  },
+  {
+    "name": "Barrel Diffusion",
+    "url": "barrel_diffusion"
+  },
+  {
+    "name": "Sense Danger",
+    "url": "sense_danger"
+  },
+  {
+    "name": "Rubedo-Lined Barrel",
+    "url": "rubedo_lined_barrel"
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "url": "primed_pistol_ammo_mutation"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Adhesive Blast",
+    "url": "adhesive_blast"
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "url": "primed_shotgun_ammo_mutation"
+  },
+  {
+    "name": "Stealth Drift",
+    "url": "stealth_drift"
+  },
+  {
+    "name": "Triple Tap",
+    "url": "triple_tap"
+  },
+  {
+    "name": "Frigid Blast",
+    "url": "frigid_blast"
+  },
+  {
+    "name": "Ammo Stock",
+    "url": "ammo_stock"
+  },
+  {
+    "name": "Accelerated Blast",
+    "url": "accelerated_blast"
+  },
+  {
+    "name": "Reach",
+    "url": "reach"
+  },
+  {
+    "name": "Spinning Needle",
+    "url": "spinning_needle"
+  },
+  {
+    "name": "Piercing Step",
+    "url": "piercing_step"
+  },
+  {
+    "name": "Sinister Reach",
+    "url": "sinister_reach"
+  },
+  {
+    "name": "Electrified Barrel",
+    "url": "electrified_barrel"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "url": "shotgun_ammo_mutation"
+  },
+  {
+    "name": "Sinking Talon",
+    "url": "sinking_talon"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Sapping Reach",
+    "url": "sapping_reach"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Lie In Wait",
+    "url": "lie_in_wait"
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "url": "primed_rifle_ammo_mutation"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "url": "pistol_ammo_mutation"
+  },
+  {
+    "name": "Arrow Mutation",
+    "url": "arrow_mutation"
+  },
+  {
+    "name": "Gleaming Talon",
+    "url": "gleaming_talon"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Augur Reach",
+    "url": "augur_reach"
+  },
+  {
+    "name": "Primed Reach",
+    "url": "primed_reach"
+  },
+  {
+    "name": "Adaptation",
+    "url": "adaptation"
+  },
+  {
+    "name": "Medi-Pet Kit",
+    "url": "medi_pet_kit"
+  },
+  {
+    "name": "Hydraulic Barrel",
+    "url": "hydraulic_barrel"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Repair Kit",
+    "url": "repair_kit"
+  },
+  {
+    "name": "Blood for Ammo",
+    "url": "blood_for_ammo"
+  },
+  {
+    "name": "Blood for Energy",
+    "url": "blood_for_energy"
+  },
+  {
+    "name": "Blood for Life",
+    "url": "blood_for_life"
+  },
+  {
+    "name": "Abundant Mutation",
+    "url": "abundant_mutation"
+  },
+  {
+    "name": "Primed Rubedo-Lined Barrel",
+    "url": "primed_rubedo_lined_barrel"
+  },
+  {
+    "name": "Necramech Reach",
+    "url": "necramech_reach"
+  },
+  {
+    "name": "Blast Shield",
+    "url": "blast_shield"
+  },
+  {
+    "name": "Aviator",
+    "url": "aviator"
+  },
+  {
+    "name": "Pool of Life",
+    "url": "pool_of_life"
+  },
+  {
+    "name": "Hydraulic Chamber",
+    "url": "hydraulic_chamber"
+  },
+  {
+    "name": "Acid Shells",
+    "url": "acid_shells"
+  },
+  {
+    "name": "Acid Shells",
+    "url": "acid_shells"
+  },
+  {
+    "name": "Primed Expel Grineer",
+    "url": "primed_expel_grineer"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Kitgun Riven Mod (Veiled)",
+    "url": "kitgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Parallax Scope",
+    "url": "parallax_scope"
+  },
+  {
+    "name": "Freeze Force",
+    "url": "freeze_force"
+  },
+  {
+    "name": "Fired Up",
+    "url": "fired_up"
+  },
+  {
+    "name": "Fired Up",
+    "url": "fired_up"
+  },
+  {
+    "name": "Split Chamber",
+    "url": "split_chamber"
+  },
+  {
+    "name": "Heated Charge",
+    "url": "heated_charge"
+  },
+  {
+    "name": "Chromatic Blade",
+    "url": "chromatic_blade"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Shotgun Riven Mod (Veiled)",
+    "url": "shotgun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Melee Riven Mod (Veiled)",
+    "url": "melee_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Pistol Riven Mod (Veiled)",
+    "url": "pistol_riven_mod_(veiled)"
+  },
+  {
+    "name": "Spring-Loaded Blade",
+    "url": "spring_loaded_blade"
+  },
+  {
+    "name": "Kinetic Diversion",
+    "url": "kinetic_diversion"
+  },
+  {
+    "name": "Charged Chamber",
+    "url": "charged_chamber"
+  },
+  {
+    "name": "Charged Chamber",
+    "url": "charged_chamber"
+  },
+  {
+    "name": "Total Eclipse",
+    "url": "total_eclipse"
+  },
+  {
+    "name": "Afterburn",
+    "url": "afterburn"
+  },
+  {
+    "name": "Shield of Shadows",
+    "url": "shield_of_shadows"
+  },
+  {
+    "name": "Insulation",
+    "url": "insulation"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "url": "primed_bane_of_infested"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "url": "primed_bane_of_corpus"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "url": "primed_bane_of_grineer"
+  },
+  {
+    "name": "Expel Grineer",
+    "url": "expel_grineer"
+  },
+  {
+    "name": "Spring-Loaded Chamber",
+    "url": "spring_loaded_chamber"
+  },
+  {
+    "name": "Tainted Shell",
+    "url": "tainted_shell"
+  },
+  {
+    "name": "Magma Chamber",
+    "url": "magma_chamber"
+  },
+  {
+    "name": "Power of Three",
+    "url": "power_of_three"
+  },
+  {
+    "name": "Primed Heated Charge",
+    "url": "primed_heated_charge"
+  },
+  {
+    "name": "Shell Compression",
+    "url": "shell_compression"
+  },
+  {
+    "name": "Kinetic Collision",
+    "url": "kinetic_collision"
+  },
+  {
+    "name": "Battering Maneuver",
+    "url": "battering_maneuver"
+  },
+  {
+    "name": "Steel Charge",
+    "url": "steel_charge"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Bane of Grineer",
+    "url": "bane_of_grineer"
+  },
+  {
+    "name": "Ironclad Charge",
+    "url": "ironclad_charge"
+  },
+  {
+    "name": "Charged Shell",
+    "url": "charged_shell"
+  },
+  {
+    "name": "Charged Shell",
+    "url": "charged_shell"
+  },
+  {
+    "name": "Hell's Chamber",
+    "url": "hells_chamber"
+  },
+  {
+    "name": "Tempered Blade",
+    "url": "tempered_blade"
+  },
+  {
+    "name": "Cephalon Suda Augment Mod",
+    "url": "cephalon_suda_augment_mod"
+  },
+  {
+    "name": "Chilling Grasp",
+    "url": "chilling_grasp"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Bane of Infested",
+    "url": "bane_of_infested"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Rifle Riven Mod (Veiled)",
+    "url": "rifle_riven_mod_(veiled)"
+  },
+  {
+    "name": "Cleanse Grineer",
+    "url": "cleanse_grineer"
+  },
+  {
+    "name": "Hall of Malevolence",
+    "url": "hall_of_malevolence"
+  },
+  {
+    "name": "Smite Grineer",
+    "url": "smite_grineer"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Bane of Corpus",
+    "url": "bane_of_corpus"
+  },
+  {
+    "name": "Maximum Capacity",
+    "url": "maximum_capacity"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "url": "primed_bane_of_corrupted"
+  },
+  {
+    "name": "Plan B",
+    "url": "plan_b"
+  },
+  {
+    "name": "Argon Scope",
+    "url": "argon_scope"
+  },
+  {
+    "name": "Sharpened Blade",
+    "url": "sharpened_blade"
+  },
+  {
+    "name": "Full Capacity",
+    "url": "full_capacity"
+  },
+  {
+    "name": "Lie In Wait",
+    "url": "lie_in_wait"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Blade of Truth",
+    "url": "blade_of_truth"
+  },
+  {
+    "name": "Loyal Companion",
+    "url": "loyal_companion"
+  },
+  {
+    "name": "Loyal Companion",
+    "url": "loyal_companion"
+  },
+  {
+    "name": "Decisive Judgement",
+    "url": "decisive_judgement"
+  },
+  {
+    "name": "Decisive Judgement",
+    "url": "decisive_judgement"
+  },
+  {
+    "name": "Quick Charge",
+    "url": "quick_charge"
+  },
+  {
+    "name": "Calm & Frenzy",
+    "url": "calm_and_frenzy"
+  },
+  {
+    "name": "Shell Rush",
+    "url": "shell_rush"
+  },
+  {
+    "name": "Deep Freeze",
+    "url": "deep_freeze"
+  },
+  {
+    "name": "Deep Freeze",
+    "url": "deep_freeze"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Bane of Corrupted",
+    "url": "bane_of_corrupted"
+  },
+  {
+    "name": "Shell Shock",
+    "url": "shell_shock"
+  },
+  {
+    "name": "Primed Chamber",
+    "url": "primed_chamber"
+  },
+  {
+    "name": "Push & Pull",
+    "url": "push_and_pull"
+  },
+  {
+    "name": "Harkonar Scope",
+    "url": "harkonar_scope"
+  },
+  {
+    "name": "Harkonar Scope",
+    "url": "harkonar_scope"
+  },
+  {
+    "name": "Afterburner",
+    "url": "afterburner"
+  },
+  {
+    "name": "Galvanized Blade",
+    "url": "galvanized_blade"
+  },
+  {
+    "name": "Galvanized Blade",
+    "url": "galvanized_blade"
+  },
+  {
+    "name": "Winds of Purity",
+    "url": "winds_of_purity"
+  },
+  {
+    "name": "Primed Charged Shell",
+    "url": "primed_charged_shell"
+  },
+  {
+    "name": "Primed Charged Shell",
+    "url": "primed_charged_shell"
+  },
+  {
+    "name": "Charged Bullets",
+    "url": "charged_bullets"
+  },
+  {
+    "name": "Hypothermic Shell",
+    "url": "hypothermic_shell"
+  },
+  {
+    "name": "Kinetic Friction",
+    "url": "kinetic_friction"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Zaw Riven Mod (Veiled)",
+    "url": "zaw_riven_mod_(veiled)"
+  },
+  {
+    "name": "Path of Statues",
+    "url": "path_of_statues"
+  },
+  {
+    "name": "Steel Meridian Augment Mod",
+    "url": "steel_meridian_augment_mod"
+  },
+  {
+    "name": "The Perrin Sequence Augment Mod",
+    "url": "the_perrin_sequence_augment_mod"
+  },
+  {
+    "name": "Red Veil Augment Mod",
+    "url": "red_veil_augment_mod"
+  },
+  {
+    "name": "New Loka Augment Mod",
+    "url": "new_loka_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Arbiters of Hexis Augment Mod",
+    "url": "arbiters_of_hexis_augment_mod"
+  },
+  {
+    "name": "Thermagnetic Shells",
+    "url": "thermagnetic_shells"
+  },
+  {
+    "name": "Kinetic Ricochet",
+    "url": "kinetic_ricochet"
+  },
+  {
+    "name": "Kinetic Ricochet",
+    "url": "kinetic_ricochet"
+  },
+  {
+    "name": "Corrupt Charge",
+    "url": "corrupt_charge"
+  },
+  {
+    "name": "Loaded Capacity",
+    "url": "loaded_capacity"
+  },
+  {
+    "name": "Loose Chamber",
+    "url": "loose_chamber"
+  },
+  {
+    "name": "Synth Charge",
+    "url": "synth_charge"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Arch-gun Riven Mod (Veiled)",
+    "url": "arch_gun_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Companion Weapon Riven Mod (Veiled)",
+    "url": "companion_weapon_riven_mod_(veiled)"
+  },
+  {
+    "name": "Primed Smite Grineer",
+    "url": "primed_smite_grineer"
+  },
+  {
+    "name": "Primed Cleanse Grineer",
+    "url": "primed_cleanse_grineer"
+  },
+  {
+    "name": "Crescent Charge",
+    "url": "crescent_charge"
+  }
+]
