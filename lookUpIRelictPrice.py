@@ -17,7 +17,7 @@ def printItem(item):
 showImg = False
 showParsedText = False
 loadImg = False
-imgName = "image9"
+imgName = "screenshot1"
 
 
 @dataclass

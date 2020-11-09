@@ -18,6 +18,7 @@ class Item:
     id: str
     drop: []
 
+
 apiPingSpeed = 0.5
 
 response = requests.get(root + "/items")
@@ -49,7 +50,6 @@ for item in items:
           " || Time left: " + str(timeLeft), end="")
 
     itemJson = response.json()["payload"]["item"]
-    #print(json.dumps(itemJson, indent=4, sort_keys=True))
 
     item.id = itemJson["id"]
     item.tags = itemJson["items_in_set"][0]["tags"]

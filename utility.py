@@ -2,7 +2,6 @@ import cv2
 import numpy
 import pyautogui
 
-
 def doScreenShot():
     img = pyautogui.screenshot()
     img = cv2.cvtColor(numpy.array(img),
