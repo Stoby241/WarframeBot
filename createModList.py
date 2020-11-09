@@ -10,7 +10,7 @@ class Item:
     name: str
     url: str
 
-f = open("item.json", "r")
+f = open("jsonFiles/item.json", "r")
 jsonItemList = json.loads(f.read())
 f.close()
 
@@ -50,7 +50,7 @@ for data in datas:
 
 jsonString = json.dumps([ob.__dict__ for ob in foundMods], indent=2)
 
-f = open("modList.json", "w")
+f = open("jsonFiles/modList.json", "w")
 f.truncate(0)
 f.write(jsonString)
 f.close()

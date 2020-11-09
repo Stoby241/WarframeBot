@@ -36,7 +36,7 @@ boxY = 400
 boxW = 240
 boxH = 75
 
-f = open("item.json", "r")
+f = open("jsonFiles/item.json", "r")
 jsonItemList = json.loads(f.read())
 f.close()
 

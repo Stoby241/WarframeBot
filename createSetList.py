@@ -18,7 +18,7 @@ class Set:
     itemUrls: []
 
 
-f = open("item.json", "r")
+f = open("jsonFiles/item.json", "r")
 jsonItemList = json.loads(f.read())
 f.close()
 
@@ -65,7 +65,7 @@ for set in sets:
 
 jsonString = json.dumps([ob.__dict__ for ob in sets], indent=2)
 
-f = open("setList.json", "w")
+f = open("jsonFiles/setList.json", "w")
 f.truncate(0)
 f.write(jsonString)
 f.close()

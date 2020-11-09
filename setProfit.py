@@ -23,7 +23,7 @@ class Set:
 
 apiPingSpeed = 0.4
 
-f = open("setList.json", "r")
+f = open("jsonFiles/setList.json", "r")
 jsonItemList = json.loads(f.read())
 f.close()
 
@@ -67,7 +67,7 @@ for set in sets:
 sets.sort(key=lambda x: x.profit, reverse=True)
 
 print("------------- Sorted List -------------")
-f = open("profit.txt", "w")
+f = open("outputFiles/profit.txt", "w")
 f.truncate(0)
 
 
