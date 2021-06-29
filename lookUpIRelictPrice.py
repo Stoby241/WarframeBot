@@ -57,8 +57,6 @@ if loadImg:
 else:
     img = utility.doScreenShot()
 
-img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-
 lower = np.array(lower, dtype="uint8")
 upper = np.array(upper, dtype="uint8")
 mask = cv2.inRange(img, lower, upper)
